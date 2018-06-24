@@ -4,7 +4,6 @@
 
 ## 0x00
 2013-08-05
-[`c4d1d1091187b98a9bb28452bc6564a1e8c0ce10d20ba2b4a20f8b7798f7ab64`](releases/pocorgtfo00.pdf) PDF
 
 1. [Call to Worship](pocorgtfo00.pdf#page=0) ([archive.org](https://archive.org/stream/Pocorgtfo00#page/n0/mode/1up))
 1. [Ipod Antiforensics](pocorgtfo00.pdf#page=1) ([archive.org](https://archive.org/stream/Pocorgtfo00#page/n1/mode/1up)) Travis Goodspeed
@@ -14,9 +13,11 @@
 1. [GTFO or #FAIL](pocorgtfo00.pdf#page=12) ([archive.org](https://archive.org/stream/Pocorgtfo00#page/n11/mode/1up)) FX of Phenoelit
 1. [A Call for PoC](pocorgtfo00.pdf#page=13) ([archive.org](https://archive.org/stream/Pocorgtfo00#page/n12/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
+release: [`c4d1d1091187b98a9bb28452bc6564a1e8c0ce10d20ba2b4a20f8b7798f7ab64`](releases/pocorgtfo00.pdf) PDF
+
 
 ## 0x01
-2013-10-06 [`a0f93a265d38257a06fd7fd210f73ea9c55a94ac1305c65c0510ada236c2cc88``](releases/pocorgtfo01.pdf) ZIP, PDF
+2013-10-06
 
 1. [Call to Worship](pocorgtfo01.pdf#page=1) ([archive.org](https://archive.org/stream/Pocorgtfo01#page/n1/mode/1up))
 1. [Four Lines of Javascript that Can't Possibly Work So why do they?](pocorgtfo01.pdf#page=2) ([archive.org](https://archive.org/stream/Pocorgtfo01#page/n1/mode/1up)) Dan Kaminsky
@@ -27,9 +28,11 @@
 1. [A Sermon concerning the Divinity of Languages; or, Dijkstra considered Racist](pocorgtfo01.pdf#page=15) ([archive.org](https://archive.org/stream/Pocorgtfo01#page/n15/mode/1up)) Rt. Rvd. Pastor Manul Laphroaig
 1. [A Call for PoC](pocorgtfo01.pdf#page=17) ([archive.org](https://archive.org/stream/Pocorgtfo01#page/n17/mode/1up)) Rt. Revd. Preacherman Pastor Manul Laphroaig
 
+release: [`a0f93a265d38257a06fd7fd210f73ea9c55a94ac1305c65c0510ada236c2cc88`](releases/pocorgtfo01.pdf) ZIP, PDF
+
 
 ## 0x02
-2013-12-28 [`f427e8d95c0ac15abe61d96fb75cfb55df1fd5ac9e713cf968f3602267ca155e`](releases/pocorgtfo02.pdf) MBR, ZIP, PDF
+2013-12-28
 
 1. [Call to Worship](pocorgtfo02.pdf#page=1) ([archive.org](https://archive.org/stream/Pocorgtfo02#page/n1/mode/1up))
 1. [A Parable on the Importance of Tools; or, Build your own fucking birdfeeder.](pocorgtfo02.pdf#page=3) ([archive.org](https://archive.org/stream/Pocorgtfo02#page/n1/mode/1up)) Rt. Rvd. Pastor Manul Laphroaig
@@ -43,9 +46,11 @@
 1. [Juggernauty](pocorgtfo02.pdf#page=30) ([archive.org](https://archive.org/stream/Pocorgtfo02#page/n30/mode/1up)) Ben Nagy
 1. [A Call for PoC](pocorgtfo02.pdf#page=32) ([archive.org](https://archive.org/stream/Pocorgtfo02#page/n32/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
+release: [`f427e8d95c0ac15abe61d96fb75cfb55df1fd5ac9e713cf968f3602267ca155e`](releases/pocorgtfo02.pdf) MBR, ZIP, PDF
+
 
 ## 0x03
-2014-03-02 [`7094f5c6a3936e0d0b8f5e42b4d1940413f568e9a3617be0d7d6dc73cb3420e1`](releases/pocorgtfo03.pdf) JPG, AES(PNG), ZIP, PDF*
+2014-03-02
 
 1. [Call to Worship](pocorgtfo03.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo03#page/n2/mode/1up))
 1. [Greybeard's Luck](pocorgtfo03.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo03#page/n4/mode/1up)) Rt. Revd. Dr. Pastor Manul Laphroaig
@@ -60,9 +65,11 @@
 1. [A Binary Magic Trick, Angecryption](pocorgtfo03.pdf#page=37) ([archive.org](https://archive.org/stream/pocorgtfo03#page/n37/mode/1up)) Ange Albertini ~ Jean-Philippe Aumasson
 1. [A Call for PoC](pocorgtfo03.pdf#page=40) ([archive.org](https://archive.org/stream/pocorgtfo03#page/n40/mode/1up)) Rt. Revd. Dr.Pastor Manul Laphroaig
 
+release: [`7094f5c6a3936e0d0b8f5e42b4d1940413f568e9a3617be0d7d6dc73cb3420e1`](releases/pocorgtfo03.pdf) JPG, AES(PNG), ZIP, PDF*
+
 
 ## 0x04
-2014-06-27 [`1d1567b8ac533cd142a8af560266ca60939fed02e3af1f6fd0816b26473afd01`](releases/pocorgtfo04.pdf) TrueCrypt, ZIP, PDF
+2014-06-27
 
 1. [Call to Worship](pocorgtfo04.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo04#page/n5/mode/1up))
 1. [First Epistle Concerning the Bountiful Seeds of 0Day](pocorgtfo04.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo04#page/n3/mode/1up)) Manul Laphroaig
@@ -79,9 +86,11 @@
 1. [Ode to ECB](pocorgtfo04.pdf#page=46) ([archive.org](https://archive.org/stream/pocorgtfo04#page/n46/mode/1up)) Ben Nagy
 1. [A Call for PoC](pocorgtfo04.pdf#page=48) ([archive.org](https://archive.org/stream/pocorgtfo04#page/n48/mode/1up)) Pastor Manul Laphroaig
 
+release: [`1d1567b8ac533cd142a8af560266ca60939fed02e3af1f6fd0816b26473afd01`](releases/pocorgtfo04.pdf) TrueCrypt, ZIP, PDF
+
 
 ## 0x05
-2014-08-10 [`9623609a9c0ecd95674e6da3de322baa141f5460cbcb93eeaade22eaf2c80640`](releases/pocorgtfo05.pdf) ISO, SWF, ZIP, PDF*
+2014-08-10
 
 1. [Call to Worship](pocorgtfo05.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n3/mode/1up))
 1. [Stuff is broken, and only you know how](pocorgtfo05.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n3/mode/1up)) Rvd. Dr. Manul Laphroaig
@@ -98,9 +107,11 @@
 1. [Ancestral Voices Or, a vision in a nightmare.](pocorgtfo05.pdf#page=54) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n54/mode/1up)) Ben Nagy
 1. [A Call for PoC](pocorgtfo05.pdf#page=56) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n56/mode/1up)) Pastor Manul Laphroaig
 
+release: [`9623609a9c0ecd95674e6da3de322baa141f5460cbcb93eeaade22eaf2c80640`](releases/pocorgtfo05.pdf) ISO, SWF, ZIP, PDF*
+
 
 ## 0x06
-2014-11-25 [`bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26`](releases/pocorgtfo06.pdf) TAR, ZIP, PDF
+2014-11-25
 
 1. [Sacrament of Communion with the Weird Machines](pocorgtfo06.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n3/mode/1up))
 1. [On Giving Thanks](pocorgtfo06.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n3/mode/1up)) Pastor Manul Laphroaig
@@ -114,9 +125,11 @@
 1. [Observable Metrics](pocorgtfo06.pdf#page=50) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n50/mode/1up)) Don A. Bailey ~ Tamara L. Rhoads ~ Jaime Cochran
 1. [A Call for PoC](pocorgtfo06.pdf#page=56) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n56/mode/1up)) Pastor Manul Laphroaig
 
+release: [`bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26`](releases/pocorgtfo06.pdf) TAR, ZIP, PDF
+
 
 ## 0x07
-2015-03-19 [`601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`](releases/pocorgtfo07.pdf) BPG, HTML, ZIP, PDF
+2015-03-19
 
 1. [With what shall we commune this evening?](pocorgtfo07.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n3/mode/1up))
 1. [AA55, the Magic Number](pocorgtfo07.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n3/mode/1up)) Morgan Reece Phillips
@@ -131,12 +144,13 @@
 1. [A Modern Cybercriminal](pocorgtfo07.pdf#page=61) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n61/mode/1up)) Ben Nagy
 1. [Fast Cash for Bugs!](pocorgtfo07.pdf#page=64) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n64/mode/1up)) Pastor Manul Laphroaig
 
+release: [`601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`](releases/pocorgtfo07.pdf) BPG, HTML, ZIP, PDF
 
 
 # Volume ][
 
 ## 0x08
-2015-06-20 [`7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33`](releases/pocorgtfo08.pdf) Shell, ZIP, PDF
+2015-06-20
 
 1. [Please stand; now, please be seated.](pocorgtfo08.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n10/mode/1up))
 1. [Witches, Warlocks, and Wassenaar; or, On the Internet, no one knows you are a witch.](pocorgtfo08.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n10/mode/1up))
@@ -152,9 +166,11 @@
 1. [Grammatically Correct Encryption](pocorgtfo08.pdf#page=60) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n60/mode/1up)) Philippe Teuwen
 1. [Fast Cash for Cyber Munitions!](pocorgtfo08.pdf#page=64) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n64/mode/1up)) Pastor Manul Laphroaig
 
+release: [`7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33`](releases/pocorgtfo08.pdf) Shell, ZIP, PDF
+
 
 ## 0x09
-2015-09-14 [`8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad`](releases/pocorgtfo09.pdf) WavPack, ZIP, PDF
+2015-09-14
 
 1. [Please stand; now, please be seated.](pocorgtfo09.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n3/mode/1up))
 1. [A Sermon on Newton and Turing](pocorgtfo09.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n3/mode/1up)) Pastor Manul Laphroaig
@@ -171,9 +187,11 @@
 1. [Oona's Puzzle Corner!](pocorgtfo09.pdf#page=62) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n62/mode/1up)) Oona Räisänen
 1. [Fast Cash for Cyber Munitions!](pocorgtfo09.pdf#page=64) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n64/mode/1up)) Pastor Manul Laphroaig
 
+release: [`8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad`](releases/pocorgtfo09.pdf) WavPack, ZIP, PDF
+
 
 ## 0x10
-2016-01-16 [`1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de`](releases/pocorgtfo10.pdf) LSMV, ZIP, PDF
+2016-01-16
 
 1. [Please stand; now, please be seated.](pocorgtfo10.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n3/mode/1up))
 1. [The Small Brown Dog and the Three Ghosts](pocorgtfo10.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n4/mode/1up)) Pastor Manul Laphroaig
@@ -185,9 +203,11 @@
 1. [Jailbreaking the TYT MD380 DMR Handheld](pocorgtfo10.pdf#page=76) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n76/mode/1up)) Travis Goodspeed KK4VCZ ~ DD4CR ~ W7PCH
 1. [Tithe us your Alms of 0day!](pocorgtfo10.pdf#page=88) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n88/mode/1up)) Pastor Manul Laphroaig
 
+release: [`1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de`](releases/pocorgtfo10.pdf) LSMV, ZIP, PDF
+
 
 ## 0x11
-2016-03-17 [`44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78`](releases/pocorgtfo11.pdf) RUBY, HTML, ZIP, PDF
+2016-03-17
 
 1. [Please stand; now, please be seated.](pocorgtfo11.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n3/mode/1up)) Pastor Manul Laphroaig
 1. [In Praise of Junk Hacking](pocorgtfo11.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n4/mode/1up)) Pastor Manul Laphroaig
@@ -201,9 +221,11 @@
 1. [Ben "bushing" Byer Memorial](pocorgtfo11.pdf#page=38) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n38/mode/1up)) fail0verflow
 1. [Tithe us your Alms of 0day!](pocorgtfo11.pdf#page=40) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n40/mode/1up)) Pastor Manul Laphroaig
 
+release: [`44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78`](releases/pocorgtfo11.pdf) RUBY, HTML, ZIP, PDF
+
 
 ## 0x12
-2016-06-18 [`441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b`](releases/pocorgtfo12.pdf) APK, ZIP, PDF
+2016-06-18
 
 1. [Lisez moi!](pocorgtfo12.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Surviving the Computation Bomb](pocorgtfo12.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n4/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
@@ -218,9 +240,11 @@
 1. [Are Androids Polyglots?](pocorgtfo12.pdf#page=79) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n79/mode/1up)) Philippe Teuwen
 1. [Tithe us your Alms of 0day!](pocorgtfo12.pdf#page=80) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n80/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
+release: [`441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b`](releases/pocorgtfo12.pdf) APK, ZIP, PDF
+
 
 ## 0x13
-2016-10-04 [`c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`](releases/pocorgtfo13.pdf) PS, ZIP, PDF
+2016-10-04
 
 1. [Read me if you want to live!](pocorgtfo13.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Reverse Engineering Star Raiders](pocorgtfo13.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n5/mode/1up)) Lorenz Wiest
@@ -234,11 +258,14 @@
 1. [Post Scriptum: A Schizophrenic Ghost](pocorgtfo13.pdf#page=71) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n71/mode/1up)) Evan Sultanik ~ Philippe Teuwen
 1. [Tithe us your Alms of 0day!](pocorgtfo13.pdf#page=72) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n72/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
+release: [`c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`](releases/pocorgtfo13.pdf) PS, ZIP, PDF
+
 
 # ...
 
+
 ## 0x14
-2017-03-20 `5eaf00d25c14232555a51a50b126746c` iNES\*, ZIP, PDF\* -- *MD5 hashquine
+2017-03-20
 
 1. [Let us share some water](pocorgtfo14.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Z-Ring Phreaking from a Gameboy](pocorgtfo14.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n5/mode/1up)) Vicki Pfau
@@ -254,9 +281,11 @@
 1. [This PDF is an NES ROM that prints its own MD5 hash!](pocorgtfo14.pdf#page=56) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n56/mode/1up)) Evan Sultanik ~ Evan Teran
 1. [Tithe us your Alms of 0day!](pocorgtfo14.pdf#page=60) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n60/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
+release: [`5eaf00d25c14232555a51a50b126746c`](releases/pocorgtfo14.pdf) iNES\*, ZIP, PDF\* -- *MD5 hashquine
+
 
 ## 0x15
-2017-06-17 `c9b3f5026640efae12d75e62868931e2b2b5ad98a9b858408266ac5c35815bf4` ILDA, ZIP, PDF
+2017-06-17
 
 1. [There's no excuse for not knowing.](pocorgtfo15.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo15#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Pier Solar and the Great Reverser](pocorgtfo15.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo15#page/n5/mode/1up)) Brandon L. Wilson
@@ -273,9 +302,11 @@
 1. [The Gamma Trick: Two PNGs for the price of one](pocorgtfo15.pdf#page=97) ([archive.org](https://archive.org/stream/pocorgtfo15#page/n97/mode/1up)) Hector Martin 'marcan'
 1. [Laphroaig's Home for Unwanted Polyglots and 0day](pocorgtfo15.pdf#page=100) ([archive.org](https://archive.org/stream/pocorgtfo15#page/n100/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
+release: [`c9b3f5026640efae12d75e62868931e2b2b5ad98a9b858408266ac5c35815bf4`](releases/pocorgtfo15.pdf) ILDA, ZIP, PDF
+
 
 ## 0x16
-2017-10-20 `10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3` Bash (python, WebIDE), ZIP, PDF
+2017-10-20
 
 1. [Every Man His Own Cigar Lighter](pocorgtfo16.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Sapere aude! Or, do you have a moment to talk about Enlightenment?](pocorgtfo16.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n5/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
@@ -291,9 +322,12 @@
 1. [This PDF is a Shell Script That Runs a Python Webserver That Serves a Scala-Based JavaScript Compiler With an HTML5 Hex Viewer; or, Reverse Engineer Your Own Damn Polyglot](pocorgtfo16.pdf#page=58) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n58/mode/1up)) Evan Sultanik
 1. [Laphroaig’s Home for Unwanted Polyglots and 0day](pocorgtfo16.pdf#page=59) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n59/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
+release: [`10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3`](releases/pocorgtfo16.pdf) Bash (python, WebIDE), ZIP, PDF
+
 
 ## 0x17
-2017-12-30 `40b8985521e671b59c305d2f5512f31b95f1e8c59b9c05ad2ca6413a99d59c97` Apollo Guidance Computer, ZIP, PDF
+2017-12-30
+
 
 1. [I thought I turned it on, but I didn't.](pocorgtfo17.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Constructing AES-CBC Shellcode](pocorgtfo17.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n5/mode/1up)) Albert Spruyt ~ Niek Timmers
@@ -305,3 +339,5 @@
 1. [Murder on the USS Table](pocorgtfo17.pdf#page=42) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n42/mode/1up)) Soldier of Fortran
 1. [Protecting ELF Files by Infecting Them](pocorgtfo17.pdf#page=56) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n56/mode/1up)) Leandro "acidx" Pereira
 1. [Laphroaig's Home for Unwanted Polyglots and 0day](pocorgtfo17.pdf#page=60) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n60/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
+
+release: [`40b8985521e671b59c305d2f5512f31b95f1e8c59b9c05ad2ca6413a99d59c97`](releases/pocorgtfo17.pdf) Apollo Guidance Computer, ZIP, PDF
