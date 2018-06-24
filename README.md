@@ -136,7 +136,7 @@
 # Volume ][
 
 ## 0x08
-2015-06-20 `7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33` Shell, ZIP, PDF
+2015-06-20 [`7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33`](releases/pocorgtfo08.pdf) Shell, ZIP, PDF
 
 1. [Please stand; now, please be seated.](pocorgtfo08.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n10/mode/1up))
 1. [Witches, Warlocks, and Wassenaar; or, On the Internet, no one knows you are a witch.](pocorgtfo08.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n10/mode/1up))
@@ -154,7 +154,7 @@
 
 
 ## 0x09
-2015-09-14 `8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad` WavPack, ZIP, PDF
+2015-09-14 [`8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad`](releases/pocorgtfo09.pdf) WavPack, ZIP, PDF
 
 1. [Please stand; now, please be seated.](pocorgtfo09.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n3/mode/1up))
 1. [A Sermon on Newton and Turing](pocorgtfo09.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n3/mode/1up)) Pastor Manul Laphroaig
@@ -173,7 +173,7 @@
 
 
 ## 0x10
-2016-01-16 `1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de` LSMV, ZIP, PDF
+2016-01-16 [`1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de`](releases/pocorgtfo10.pdf) LSMV, ZIP, PDF
 
 1. [Please stand; now, please be seated.](pocorgtfo10.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n3/mode/1up))
 1. [The Small Brown Dog and the Three Ghosts](pocorgtfo10.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n4/mode/1up)) Pastor Manul Laphroaig
@@ -187,7 +187,7 @@
 
 
 ## 0x11
-2016-03-17 `44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78` RUBY, HTML, ZIP, PDF
+2016-03-17 [`44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78`](releases/pocorgtfo11.pdf) RUBY, HTML, ZIP, PDF
 
 1. [Please stand; now, please be seated.](pocorgtfo11.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n3/mode/1up)) Pastor Manul Laphroaig
 1. [In Praise of Junk Hacking](pocorgtfo11.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n4/mode/1up)) Pastor Manul Laphroaig
@@ -203,7 +203,7 @@
 
 
 ## 0x12
-2016-06-18 `441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b` APK, ZIP, PDF
+2016-06-18 [`441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b`](releases/pocorgtfo12.pdf) APK, ZIP, PDF
 
 1. [Lisez moi!](pocorgtfo12.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Surviving the Computation Bomb](pocorgtfo12.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n4/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
@@ -220,7 +220,7 @@
 
 
 ## 0x13
-2016-10-04 `c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5` PS, ZIP, PDF
+2016-10-04 [`c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`](releases/pocorgtfo13.pdf) PS, ZIP, PDF
 
 1. [Read me if you want to live!](pocorgtfo13.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n3/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Reverse Engineering Star Raiders](pocorgtfo13.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n5/mode/1up)) Lorenz Wiest
