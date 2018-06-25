@@ -328,7 +328,6 @@ release: [`10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3`](re
 ## 0x17
 2017-12-30
 
-
 1. [I thought I turned it on, but I didn't.](contents17.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n2/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 1. [Constructing AES-CBC Shellcode](contents17.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n4/mode/1up)) Albert Spruyt ~ Niek Timmers
 1. [In the Company of Rogues: Pastor Laphroaig's Tall Tales of Science and of Fiction](contents17.pdf#page=9) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n8/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
@@ -341,3 +340,20 @@ release: [`10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3`](re
 1. [Laphroaig's Home for Unwanted Polyglots and 0day](contents17.pdf#page=60) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n59/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
 release: [`40b8985521e671b59c305d2f5512f31b95f1e8c59b9c05ad2ca6413a99d59c97`](releases/pocorgtfo17.pdf) Apollo Guidance Computer, ZIP, PDF
+
+
+## 0x18
+2018-06-26
+
+1. [I thought I turned it on, but I didn't.](contents18.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n2/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
+1. [An 8 Kilobyte Mode 7 Demo for the Apple II](contents18.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n3/mode/1up)) Vincent M. Weaver
+1. [Fun Memory Corruption Exploits for Kids with Scratch!](contents18.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n9/mode/1up)) KevSheldrake
+1. [Concealing ZIP Files in NES Cartridges](contents18.pdf#page=17) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n16/mode/1up)) Vi Grey
+1. [House of Fun; or, Heap Exploitation against GlibC in 2018](contents18.pdf#page=22) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n21/mode/1up)) Yannay Livneh
+1. [RelroS: Read Only Relocations for Static ELF](contents18.pdf#page=37) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n36/mode/1up)) Ryan "ElfMaster" O'Neill
+1. [A Trivial Exploit for TetriNET; or, Update Player TranslateMessage to LevelShellcode.](contents18.pdf#page=48) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n47/mode/1up)) John Laky, Kyle Hanslovan
+1. [A Guide to KLEE LLVM execution engine internals](contents18.pdf#page=51) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n50/mode/1up)) Julien Vanegue
+1. [Memory Scrambling on Intel Sandy Bridge DDR3](contents18.pdf#page=58) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n57/mode/1up)) Nico Heijningen
+1. [Easy SHA-1 Colliding PDFs with PDFLaTeX.](contents18.pdf#page=63) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n62/mode/1up)) Ange Albertini
+
+release: [`191b636f80d0c74164ec9d9b3544decdaa2b7df5`](releases/pocorgtfo18.pdf) HTML* PDF* ZIP -- *SHA-1 collision
