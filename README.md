@@ -355,5 +355,6 @@ release: [`40b8985521e671b59c305d2f5512f31b95f1e8c59b9c05ad2ca6413a99d59c97`](re
 1. [A Guide to KLEE LLVM execution engine internals](contents18.pdf#page=51) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n50/mode/1up)) Julien Vanegue
 1. [Memory Scrambling on Intel Sandy Bridge DDR3](contents18.pdf#page=58) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n57/mode/1up)) Nico Heijningen
 1. [Easy SHA-1 Colliding PDFs with PDFLaTeX.](contents18.pdf#page=63) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n62/mode/1up)) Ange Albertini
+1. [Bring out your dead! Bugs, that is.](contents18.pdf#page=64) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n63/mode/1up)) Rt. Revd. Pastor Manul Laphroaig
 
 release: [`191b636f80d0c74164ec9d9b3544decdaa2b7df5`](releases/pocorgtfo18.pdf) HTML* PDF* ZIP -- *SHA-1 collision
