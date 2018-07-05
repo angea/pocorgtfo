@@ -95,7 +95,7 @@ release: [`1d1567b8ac533cd142a8af560266ca60939fed02e3af1f6fd0816b26473afd01`](re
 2014-08-10
 
 1. [Call to Worship](contents/issue05.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n2/mode/1up))
-1. [Stuff is broken, and only you know how](contents/issue05.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n2/mode/1up)) Rvd. Dr. Manul Laphroaig
+1. [Stuff is broken, and only you know how](contents/issue05.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n3/mode/1up)) Rvd. Dr. Manul Laphroaig
 1. [ECB as an Electronic Coloring Book](contents/issue05.pdf#page=7) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n6/mode/1up)) Philippe Teuwen
 1. [An Easter Egg in PCI Express](contents/issue05.pdf#page=11) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n10/mode/1up)) Jacob Torrey
 1. [A Flash PDF Polyglot](contents/issue05.pdf#page=15) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n14/mode/1up)) Alex Inführ
@@ -116,7 +116,7 @@ release: [`9623609a9c0ecd95674e6da3de322baa141f5460cbcb93eeaade22eaf2c80640`](re
 2014-11-25
 
 1. [Sacrament of Communion with the Weird Machines](contents/issue06.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n2/mode/1up))
-1. [On Giving Thanks](contents/issue06.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n2/mode/1up)) Pastor Manul Laphroaig
+1. [On Giving Thanks](contents/issue06.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n3/mode/1up)) Pastor Manul Laphroaig
 1. [Gekko the Dolphin](contents/issue06.pdf#page=6) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n5/mode/1up)) Fiora
 1. [This TAR archive is a PDF! (as well as a ZIP, but you are probably used to it by now)](contents/issue06.pdf#page=15) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n14/mode/1up)) Ange Albertini
 1. [x86 Alchemy and Smuggling with Metalkit](contents/issue06.pdf#page=17) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n16/mode/1up)) Micah Elizabeth Scott
@@ -134,7 +134,7 @@ release: [`bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26`](re
 2015-03-19
 
 1. [With what shall we commune this evening?](contents/issue07.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n2/mode/1up))
-1. [AA55, the Magic Number](contents/issue07.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n2/mode/1up)) Morgan Reece Phillips
+1. [AA55, the Magic Number](contents/issue07.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n3/mode/1up)) Morgan Reece Phillips
 1. [Laser robots!](contents/issue07.pdf#page=5) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n4/mode/1up)) Micah Elizabeth Scott
 1. [A Story of Settled Science](contents/issue07.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n9/mode/1up)) Pastor Manul Laphroaig
 1. [Scapy is for Script Kiddies](contents/issue07.pdf#page=13) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n12/mode/1up)) Eric Davisson
@@ -143,7 +143,7 @@ release: [`bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26`](re
 1. [Innovations with Core Files](contents/issue07.pdf#page=49) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n48/mode/1up)) Ryan elfmaster O'Neill
 1. [Bambaata on NASCAR](contents/issue07.pdf#page=58) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n57/mode/1up)) Count Bambaata
 1. [Public Service Announcement](contents/issue07.pdf#page=61) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n60/mode/1up))
-1. [A Modern Cybercriminal](contents/issue07.pdf#page=61) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n60/mode/1up)) Ben Nagy
+1. [A Modern Cybercriminal](contents/issue07.pdf#page=62) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n61/mode/1up)) Ben Nagy
 1. [Fast Cash for Bugs!](contents/issue07.pdf#page=64) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n63/mode/1up)) Pastor Manul Laphroaig
 
 release: [`601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`](releases/pocorgtfo07.pdf) BPG, HTML, ZIP, PDF
@@ -154,9 +154,9 @@ release: [`601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`](re
 ### 0x08
 2015-06-20
 
-1. [Please stand; now, please be seated.](contents/issue08.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n9/mode/1up))
-1. [Witches, Warlocks, and Wassenaar; or, On the Internet, no one knows you are a witch.](contents/issue08.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n9/mode/1up))
-1. [Backdoors from Compiler Bugs](contents/issue08.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n2/mode/1up)) Scott Bauer ~ Pascal Cuoq ~ John Regehr
+1. [Please stand; now, please be seated.](contents/issue08.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n2/mode/1up))
+1. [Witches, Warlocks, and Wassenaar; or, On the Internet, no one knows you are a witch.](contents/issue08.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n3/mode/1up))
+1. [Backdoors from Compiler Bugs](contents/issue08.pdf#page=7) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n6/mode/1up)) Scott Bauer ~ Pascal Cuoq ~ John Regehr
 1. [A Protocol for Leibowitz](contents/issue08.pdf#page=10) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n9/mode/1up)) Travis Goodspeed ~ Muur P.
 1. [Reprogramming a Mouse Jiggler](contents/issue08.pdf#page=20) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n19/mode/1up)) Mickey Shkatov
 1. [Exploiting an Academic Hypervisor](contents/issue08.pdf#page=24) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n23/mode/1up)) DJ Capelis ~ Daniel Bittman
@@ -175,8 +175,8 @@ release: [`7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33`](re
 2015-09-14
 
 1. [Please stand; now, please be seated.](contents/issue09.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n2/mode/1up))
-1. [A Sermon on Newton and Turing](contents/issue09.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n2/mode/1up)) Pastor Manul Laphroaig
-1. [Globalstar Satellite Communications](contents/issue09.pdf#page=3) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n2/mode/1up)) Colby Moore
+1. [A Sermon on Newton and Turing](contents/issue09.pdf#page=4) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n3/mode/1up)) Pastor Manul Laphroaig
+1. [Globalstar Satellite Communications](contents/issue09.pdf#page=7) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n6/mode/1up)) Colby Moore
 1. [Keenly Spraying the Kernel Pools](contents/issue09.pdf#page=12) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n11/mode/1up)) Peter Hlavaty of Keen Team
 1. [The Second Underhanded Crypto Contest](contents/issue09.pdf#page=19) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n18/mode/1up)) Taylor Hornby
 1. [Cross VM Communications](contents/issue09.pdf#page=21) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n20/mode/1up)) Sophia D'Antoine
