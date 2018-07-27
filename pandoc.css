@@ -72,3 +72,20 @@ dd p {
         color: gray;
         text-align: center;
         }
+
+img {
+    background-image:
+      linear-gradient(45deg, #808080 25%, transparent 25%, transparent 75%, #808080 75%),
+      linear-gradient(45deg, #808080 25%, #606060 25%, #606060 75%, #808080 75%);
+  
+    background-size: 10px 10px;
+    background-position: 0 0, 5px 5px;
+
+   padding:1px;
+   border:1px solid #000000;
+   background-color:#900090;
+}
+
+img:not([alt]){
+    filter:blur(5px);
+}
