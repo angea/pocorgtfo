@@ -2,7 +2,6 @@
 
 ## PoC||GTFO
 
-[no starch press](https://nostarch.com/gtfo)
 
 ### 0x00
 2013-08-05
@@ -166,6 +165,7 @@ release: [`601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`](re
 
 
 ## Volume ][
+
 
 ### 0x08
 2015-06-20
