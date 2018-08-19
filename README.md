@@ -1,28 +1,34 @@
 # Contents
-[PoC||GTFO](#pocgtfo) 2017-08 [<img src=contents/issue00.png width=50px alt="issue 00"/>](#0x00) [<img src=contents/issue01.png width=50px alt="issue 01"/>](#0x01) [<img src=contents/issue02.png width=50px alt="issue 02"/>](#0x02) [<img src=contents/issue03.png width=50px alt="issue 03"/>](#0x03) [<img src=contents/issue04.png width=50px alt="issue 04"/>](#0x04) [<img src=contents/issue05.png width=50px alt="issue 05"/>](#0x05) [<img src=contents/issue06.png width=50px alt="issue 06"/>](#0x06) [<img src=contents/issue07.png width=50px alt="issue 07"/>](#0x07) 
-- [0x00](#0x00) 2013-08-05
-- [0x01](#0x01) 2013-10-06
-- [0x02](#0x02) 2013-12-28
-- [0x03](#0x03) 2014-03-02
-- [0x04](#0x04) 2014-06-27
-- [0x05](#0x05) 2014-08-10
-- [0x06](#0x06) 2014-11-25
-- [0x07](#0x07) 2015-03-19
+[PoC||GTFO](#pocgtfo) 2017-08, 327p
 
-[Volume ||](#volume-) 2018-08 [<img src=contents/issue08.png width=50px alt="issue 08"/>](#0x08) [<img src=contents/issue09.png width=50px alt="issue 09"/>](#0x09) [<img src=contents/issue10.jpg width=50px alt="issue 10"/>](#0x10) [<img src=contents/issue11.jpg width=50px alt="issue 11"/>](#0x11) [<img src=contents/issue12.jpg width=50px alt="issue 12"/>](#0x12) [<img src=contents/issue13.png width=50px alt="issue 13"/>](#0x13) 
-- [0x08](#0x08) 2015-06-20
-- [0x09](#0x09) 2015-09-14
-- [0x10](#0x10) 2016-01-16
-- [0x11](#0x11) 2016-03-17
-- [0x12](#0x12) 2016-06-18
-- [0x13](#0x13) 2016-10-04
+[<img src=contents/issue00.png width=50px alt="issue 00"/>](#0x00) [<img src=contents/issue01.png width=50px alt="issue 01"/>](#0x01) [<img src=contents/issue02.png width=50px alt="issue 02"/>](#0x02) [<img src=contents/issue03.png width=50px alt="issue 03"/>](#0x03) [<img src=contents/issue04.png width=50px alt="issue 04"/>](#0x04) [<img src=contents/issue05.png width=50px alt="issue 05"/>](#0x05) [<img src=contents/issue06.png width=50px alt="issue 06"/>](#0x06) [<img src=contents/issue07.png width=50px alt="issue 07"/>](#0x07) 
+- [0x00](#0x00) 2013-08-05, 14p
+- [0x01](#0x01) 2013-10-06, 17p
+- [0x02](#0x02) 2013-12-28, 32p
+- [0x03](#0x03) 2014-03-02, 40p
+- [0x04](#0x04) 2014-06-27, 48p
+- [0x05](#0x05) 2014-08-10, 56p
+- [0x06](#0x06) 2014-11-25, 56p
+- [0x07](#0x07) 2015-03-19, 64p
 
-next... [<img src=contents/issue14.jpg width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) 
-- [0x14](#0x14) 2017-03-20
-- [0x15](#0x15) 2017-06-17
-- [0x16](#0x16) 2017-10-20
-- [0x17](#0x17) 2017-12-30
-- [0x18](#0x18) 2018-06-26
+[Volume ||](#volume-) 2018-08, 408p
+
+[<img src=contents/issue08.png width=50px alt="issue 08"/>](#0x08) [<img src=contents/issue09.png width=50px alt="issue 09"/>](#0x09) [<img src=contents/issue10.jpg width=50px alt="issue 10"/>](#0x10) [<img src=contents/issue11.jpg width=50px alt="issue 11"/>](#0x11) [<img src=contents/issue12.jpg width=50px alt="issue 12"/>](#0x12) [<img src=contents/issue13.png width=50px alt="issue 13"/>](#0x13) 
+- [0x08](#0x08) 2015-06-20, 64p
+- [0x09](#0x09) 2015-09-14, 64p
+- [0x10](#0x10) 2016-01-16, 88p
+- [0x11](#0x11) 2016-03-17, 40p
+- [0x12](#0x12) 2016-06-18, 80p
+- [0x13](#0x13) 2016-10-04, 72p
+
+[next...?](#next) 2019-08, 344p
+
+[<img src=contents/issue14.jpg width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) 
+- [0x14](#0x14) 2017-03-20, 60p
+- [0x15](#0x15) 2017-06-17, 100p
+- [0x16](#0x16) 2017-10-20, 60p
+- [0x17](#0x17) 2017-12-30, 60p
+- [0x18](#0x18) 2018-06-26, 64p
 
 # Issues
 
@@ -305,7 +311,7 @@ release: [`c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`](re
 <img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/>
 
 
-## ...
+## next...?
 
 
 ### 0x14
