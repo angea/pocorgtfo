@@ -1,5 +1,5 @@
 # Contents
-[PoC||GTFO](#pocgtfo) 2017-08, 327p
+[<img src=extras/pdftagram.svg width=50px alt="PoC||GTFO's PDFtagram"/> PoC||GTFO](#pocgtfo) 2017-08, 327p
 
 [<img src=contents/issue00.png width=50px alt="issue 00"/>](#0x00) [<img src=contents/issue01.png width=50px alt="issue 01"/>](#0x01) [<img src=contents/issue02.png width=50px alt="issue 02"/>](#0x02) [<img src=contents/issue03.png width=50px alt="issue 03"/>](#0x03) [<img src=contents/issue04.png width=50px alt="issue 04"/>](#0x04) [<img src=contents/issue05.png width=50px alt="issue 05"/>](#0x05) [<img src=contents/issue06.png width=50px alt="issue 06"/>](#0x06) [<img src=contents/issue07.png width=50px alt="issue 07"/>](#0x07) 
 - [0x00](#0x00) 2013-08-05, 14p
@@ -11,7 +11,7 @@
 - [0x06](#0x06) 2014-11-25, 56p
 - [0x07](#0x07) 2015-03-19, 64p
 
-[Volume ||](#volume-) 2018-08, 408p
+[<img src=extras/glyphsign.svg width=50px alt="Volume II's glyph'"/> Volume II](#volume-) 2018-08, 408p
 
 [<img src=contents/issue08.png width=50px alt="issue 08"/>](#0x08) [<img src=contents/issue09.png width=50px alt="issue 09"/>](#0x09) [<img src=contents/issue10.jpg width=50px alt="issue 10"/>](#0x10) [<img src=contents/issue11.jpg width=50px alt="issue 11"/>](#0x11) [<img src=contents/issue12.jpg width=50px alt="issue 12"/>](#0x12) [<img src=contents/issue13.png width=50px alt="issue 13"/>](#0x13) 
 - [0x08](#0x08) 2015-06-20, 64p
@@ -34,7 +34,7 @@
 
 ## PoC||GTFO
 
-[Buy](https://nostarch.com/gtfo)
+[<img src=extras/pdftagram.svg width=100px alt="PoC||GTFO's PDFtagram"/> Buy](https://nostarch.com/gtfo)
 
 ### 0x00
 
@@ -191,7 +191,7 @@
 
 ## Volume ][
 
-[Buy](https://nostarch.com/gtfo2)
+[<img src=extras/glyphsign.svg width=100px alt="Volume II's glyph'"/> Buy](https://nostarch.com/gtfo2)
 
 ### 0x08
 
@@ -417,7 +417,13 @@
 
 # Extras
 
-crest [png](extras/crest.png) [pdf](extras/crest.pdf)
+<img src=extras/pdftagram.svg width=200px alt="PoC||GTFO's PDFtagram"></img>
+PoC||GTFO's PDFtagram [png](extras/pdftagram.svg) [svg](extras/pdftagram.svg)
 
-<img src=extras/crest.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"/>
+<img src=extras/glyphsign.svg width=200px alt="Volume II's Glyph of the Dead"></img>
+Volume II's Glyph of the Dead [png](extras/glyphsign.png) [svg](extras/glyphsign.svg)
+
+<img src=extras/crest.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"></img>
+School crest [png](extras/crest.png) [pdf](extras/crest.pdf)
+
 <!-- pandoc -s --toc --css=pandoc.css -f gfm -t html README.md -o README.htm -->
