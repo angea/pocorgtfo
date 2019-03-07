@@ -23,12 +23,14 @@
 
 [next...?](#next) 2019-08, 344p
 
-[<img src=contents/issue14.jpg width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) 
+[<img src=contents/issue14.png width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) 
 - [0x14](#0x14) 2017-03-20, 60p
 - [0x15](#0x15) 2017-06-17, 100p
 - [0x16](#0x16) 2017-10-20, 60p
 - [0x17](#0x17) 2017-12-30, 60p
 - [0x18](#0x18) 2018-06-26, 64p
+
+[Extras](#extras)
 
 # Issues
 
@@ -330,7 +332,8 @@
 1. This PDF is an NES ROM that prints its own MD5 hash! ([local](contents/issue14.pdf#page=56)) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n55/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik), [Evan Teran](https://twitter.com/@evan_teran)
 1. Tithe us your Alms of 0day! ([local](contents/issue14.pdf#page=60)) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n59/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue14.jpg width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER"/>
+<img src=contents/issue14.png width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER"/>
+<img src=contents/issue14alt.png width=200px alt="MD5 collision cover"/>
 
 [release](releases/pocorgtfo14.pdf): iNES\*, ZIP, PDF\* -- \*MD5 hashquine `5eaf00d25c14232555a51a50b126746c`
 
@@ -411,6 +414,7 @@
 1. Bring out your dead! Bugs, that is. ([local](contents/issue18.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n63/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
 <img src=contents/issue18.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"/>
+<img src=contents/issue18alt.png width=200px alt="SHA-1 collision cover"/>
 
 [release](releases/pocorgtfo18.pdf): HTML\* PDF\* ZIP -- \*SHA-1 collision `191b636f80d0c74164ec9d9b3544decdaa2b7df5`
 
