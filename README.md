@@ -332,8 +332,7 @@
 1. This PDF is an NES ROM that prints its own MD5 hash! ([local](contents/issue14.pdf#page=56)) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n55/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik), [Evan Teran](https://twitter.com/@evan_teran)
 1. Tithe us your Alms of 0day! ([local](contents/issue14.pdf#page=60)) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n59/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue14.png width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER"/>
-<img src=contents/issue14alt.png width=200px alt="MD5 collision cover"/>
+<img src=contents/issue14.png width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER"/> <img src=contents/issue14alt.png width=200px alt="MD5 collision cover"/>
 
 [release](releases/pocorgtfo14.pdf): iNES\*, ZIP, PDF\* -- \*MD5 hashquine `5eaf00d25c14232555a51a50b126746c`
 
@@ -413,8 +412,7 @@
 1. Easy SHA-1 Colliding PDFs with PDFLaTeX. ([local](contents/issue18.pdf#page=63)) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n62/mode/1up)) by [Ange Albertini](https://twitter.com/@angealbertini)
 1. Bring out your dead! Bugs, that is. ([local](contents/issue18.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo18#page/n63/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue18.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"/>
-<img src=contents/issue18alt.png width=200px alt="SHA-1 collision cover"/>
+<img src=contents/issue18.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"/> <img src=contents/issue18alt.png width=200px alt="SHA-1 collision cover"/>
 
 [release](releases/pocorgtfo18.pdf): HTML\* PDF\* ZIP -- \*SHA-1 collision `191b636f80d0c74164ec9d9b3544decdaa2b7df5`
 
