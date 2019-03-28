@@ -21,14 +21,15 @@
 - [0x12](#0x12) 2016-06-18, 80p
 - [0x13](#0x13) 2016-10-04, 72p
 
-[next...?](#next) 2019-08, 344p
+[next...?](#next) 424p
 
-[<img src=contents/issue14.png width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) 
+[<img src=contents/issue14.png width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) [<img src=contents/issue19.png width=50px alt="issue 19"/>](#0x19)
 - [0x14](#0x14) 2017-03-20, 60p
 - [0x15](#0x15) 2017-06-17, 100p
 - [0x16](#0x16) 2017-10-20, 60p
 - [0x17](#0x17) 2017-12-30, 60p
 - [0x18](#0x18) 2018-06-26, 64p
+- [0x19](#0x19) 2019-03-27, 80p
 
 [Extras](#extras)
 
@@ -417,6 +418,27 @@
 [release](releases/pocorgtfo18.pdf): HTML\* PDF\* ZIP -- \*SHA-1 collision `191b636f80d0c74164ec9d9b3544decdaa2b7df5`
 
 
+### 0x19
+
+1. Let’s start a band together! ([local](contents/issue19.pdf#page=3)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
+1. Of Coal and Iron ([local](contents/issue19.pdf#page=5)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n4/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
+1. On CSV Injection and RFC 5322 ([local](contents/issue19.pdf#page=11)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n10/mode/1up)) by [Jeff Dileo](https://twitter.com/@ChaosDatumz)
+1. Undefining the ARM ([local](contents/issue19.pdf#page=17)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n16/mode/1up)) by Eric Davisson
+1. An MD5 Pileup ([local](contents/issue19.pdf#page=21)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n20/mode/1up)) by [Ange Albertini](https://twitter.com/@angealbertini) and [Marc Stevens](https://twitter.com/realhashbreaker)
+1. Selectively Exceptional UTF8 ([local](contents/issue19.pdf#page=39)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n38/mode/1up)) by [Travis Goodspeed](https://twitter.com/@travisgoodspeed) and [Ryan Speers](https://twitter.com/@rmspeers)
+1. Never Fret that Unobtainium ([local](contents/issue19.pdf#page=44)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n43/mode/1up)) by Matthew Peters
+1. Steganography in .ICO Files ([local](contents/issue19.pdf#page=47)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n46/mode/1up)) by Rodger Allen
+1. The Pages of PoC||GTFO ([local](contents/issue19.pdf#page=53)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n52/mode/1up)) by [Dr. evm](https://twitter.com/@evm_sec) and the MMX Show
+1. Vector Multiplication as an IPC Primitive ([local](contents/issue19.pdf#page=55)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n54/mode/1up)) by Lorenzo Benelli
+1. Camelus Documentum: A PDF with Two Humps ([local](contents/issue19.pdf#page=60)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n59/mode/1up)) by [Gabriel ‘Drup’ Radanne](https://github.com/Drup)
+1. Inside the Emulator of Windows Defender ([local](contents/issue19.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n63/mode/1up)) by [Alexei Bulazel](https://twitter.com/0xalexei)
+1. What clever things have you learned lately? ([local](contents/issue19.pdf#page=80)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n79/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
+
+<img src=contents/issue19.png width=200px alt="This lonely old piano has a few more tunes! And so do you! And so do I!"/>
+
+[release](releases/pocorgtfo19.pdf): HTML PDF\* ZIP -- \*MD5 pileup (PE/PDF/PNG/MP4) `ac75bf434f3624612cc3b6ee1aa59218`
+
+
 # Extras
 
 <img src=extras/pdftagram.svg width=200px alt="PoC||GTFO's PDFtagram"></img>
@@ -428,4 +450,4 @@ Volume II's Glyph of the Dead [png](extras/glyphsign.png) [svg](extras/glyphsign
 <img src=extras/crest.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"></img>
 School crest [png](extras/crest.png) [pdf](extras/crest.pdf)
 
-<!-- pandoc -s --toc --css=pandoc.css -f gfm -t html README.md -o README.htm -->
+<!-- pandoc -s --css=pandoc.css -f gfm -t html README.md -o README.htm -->
