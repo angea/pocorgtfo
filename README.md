@@ -178,7 +178,7 @@
 1. AA55, the Magic Number ([local](contents/issue07.pdf#page=4)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n3/mode/1up)) by Morgan Reece Phillips
 1. Laser robots! ([local](contents/issue07.pdf#page=5)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n4/mode/1up)) by [Micah Elizabeth Scott](https://twitter.com/@scanlime)
 1. A Story of Settled Science ([local](contents/issue07.pdf#page=10)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n9/mode/1up)) by Pastor Manul Laphroaig
-1. Scapy is for Script Kiddies ([local](contents/issue07.pdf#page=13)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n12/mode/1up)) by Eric Davisson
+1. Scapy is for Script Kiddies ([local](contents/issue07.pdf#page=13)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n12/mode/1up)) by [Eric Davisson](https://twitter.com/@XlogicX)
 1. Funky Files, the Novella! ([local](contents/issue07.pdf#page=18)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n17/mode/1up)) by [Ange Albertini](https://twitter.com/@angealbertini)
 1. Extending AES-NI Backdoors ([local](contents/issue07.pdf#page=42)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n41/mode/1up)) by [BSDaemon](https://twitter.com/@bsdaemon), Pirata
 1. Innovations with Core Files ([local](contents/issue07.pdf#page=49)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n48/mode/1up)) by [Ryan "ElfMaster" O'Neill](https://twitter.com/@ryan_elfmaster)
@@ -225,7 +225,7 @@
 1. Keenly Spraying the Kernel Pools ([local](contents/issue09.pdf#page=12)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n11/mode/1up)) by [Peter Hlavaty of Keen Team](https://twitter.com/@zer0mem)
 1. The Second Underhanded Crypto Contest ([local](contents/issue09.pdf#page=19)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n18/mode/1up)) by [Taylor Hornby](https://twitter.com/@DefuseSec)
 1. Cross VM Communications ([local](contents/issue09.pdf#page=21)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n20/mode/1up)) by [Sophia D'Antoine](https://twitter.com/@Calaquendi44)
-1. Antivirus Tumors ([local](contents/issue09.pdf#page=26)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n25/mode/1up)) by Eric Davisson
+1. Antivirus Tumors ([local](contents/issue09.pdf#page=26)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n25/mode/1up)) by [Eric Davisson](https://twitter.com/@XlogicX)
 1. A Recipe for TCP/IPA ([local](contents/issue09.pdf#page=28)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n27/mode/1up)) by [Ron Fabela of Binary Brew Works](https://twitter.com/@ron_fab)
 1. Mischief with AX.25 and APRS ([local](contents/issue09.pdf#page=34)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n33/mode/1up)) by Vogelfrei
 1. Napravi i ti Racunar „Galaksija" ([local](contents/issue09.pdf#page=40)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n39/mode/1up)) by [Voja Antonic](https://twitter.com/@Voja_Antonic)
@@ -261,7 +261,7 @@
 1. Please stand; now, please be seated. ([local](contents/issue11.pdf#page=3)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n2/mode/1up)) by Pastor Manul Laphroaig
 1. In Praise of Junk Hacking ([local](contents/issue11.pdf#page=4)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n3/mode/1up)) by Pastor Manul Laphroaig
 1. Emulating Star Wars on a Vector Display ([local](contents/issue11.pdf#page=6)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n5/mode/1up)) by [Trammell Hudson](https://twitter.com/@qrs)
-1. One Boot Sector PoC Deserves Another ([local](contents/issue11.pdf#page=9)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n8/mode/1up)) by Eric Davisson
+1. One Boot Sector PoC Deserves Another ([local](contents/issue11.pdf#page=9)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n8/mode/1up)) by [Eric Davisson](https://twitter.com/@XlogicX)
 1. Defeating E7 Protection on the Apple II Platform ([local](contents/issue11.pdf#page=15)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n14/mode/1up)) by [Peter Ferrie (qkumba, san inc)](https://twitter.com/@a2_qkumba)
 1. Tourist's Phrasebook for the ARM Cortex M ([local](contents/issue11.pdf#page=20)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n19/mode/1up)) by [Travis Goodspeed](https://twitter.com/@travisgoodspeed), [Ryan Speers](https://twitter.com/@rmspeers)
 1. Ghetto CFI for X86 ([local](contents/issue11.pdf#page=24)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n23/mode/1up)) by [Jeffrey Crowell](https://twitter.com/@jeffreycrowell)
@@ -423,7 +423,7 @@
 1. Let’s start a band together! ([local](contents/issue19.pdf#page=3)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Of Coal and Iron ([local](contents/issue19.pdf#page=5)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n4/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. On CSV Injection and RFC 5322 ([local](contents/issue19.pdf#page=11)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n10/mode/1up)) by [Jeff Dileo](https://twitter.com/@ChaosDatumz)
-1. Undefining the ARM ([local](contents/issue19.pdf#page=17)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n16/mode/1up)) by Eric Davisson
+1. Undefining the ARM ([local](contents/issue19.pdf#page=17)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n16/mode/1up)) by [Eric Davisson](https://twitter.com/@XlogicX)
 1. An MD5 Pileup ([local](contents/issue19.pdf#page=21)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n20/mode/1up)) by [Ange Albertini](https://twitter.com/@angealbertini) and [Marc Stevens](https://twitter.com/realhashbreaker)
 1. Selectively Exceptional UTF8 ([local](contents/issue19.pdf#page=39)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n38/mode/1up)) by [Travis Goodspeed](https://twitter.com/@travisgoodspeed) and [Ryan Speers](https://twitter.com/@rmspeers)
 1. Never Fret that Unobtainium ([local](contents/issue19.pdf#page=44)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n43/mode/1up)) by Matthew Peters
