@@ -436,7 +436,7 @@
 
 <img src=contents/issue19.png width=200px alt="This lonely old piano has a few more tunes! And so do you! And so do I!"/>
 
-[release](releases/pocorgtfo19.pdf): HTML PDF\* ZIP -- \*MD5 pileup (PE/PDF/PNG/MP4) `ac75bf434f3624612cc3b6ee1aa59218`
+[release](releases/pocorgtfo19.pdf): HTML PDF\* ZIP -- \*MD5 pileup (PE/PDF/PNG/MP4) `ac75bf434f3624612cc3b6ee1aa59218` [writeup](writeups/19/README.md)
 
 
 # Extras
