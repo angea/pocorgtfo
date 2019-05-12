@@ -225,15 +225,29 @@ it's standalone, fairly small, and the earliest version that renders the whole d
 
 So the self-collision of the file can view itself.
 
-It's been compressed with UPX so that the PDF keywords it contains don't interfer with the PDF file itself.
-
-Since it uses MSVC library, some checks have been patched out since modifying the PE header will interfere with the UPX de-packing,
-leading to incorrect sections permissions,
-wich will prevent it to work after an incorrect `Runtime R6002 - floating point not loaded` error.
-
 <img width=300 src="pocorgtfo.exe.png"/>
 
 *the PDF payload showing the colliding PDF file*
+
+#### manual compatibility fix
+
+It was compressed with [UPX](https://upx.github.io/) so that the PDF keywords it contains
+don't interfere with the parsing of the PDF part of the file.
+
+Since it uses the MSVC library,
+some checks have been [patched out](http://www.manhunter.ru/underground/65_runtime_error_r6002_floating_point_not_loaded.html)
+since altering the PE header for the collisions will interfere with the UPX de-packing,
+leading to incorrect sections permissions,
+wich will prevent it to work after a misleading `Runtime R6002 - floating point not loaded` error.
+
+Patch this:
+
+``` x86
+C1E81F shr   eax,01F
+F7D0   not   eax
+83E001 and   eax,1
+```
+to set `eax` to 1 instead.
 
 ## Portable Network Graphics image
 
