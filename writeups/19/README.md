@@ -19,6 +19,77 @@ The file is a 80 page PDFLaTeX-generated document, and normalized via `mutool cl
 
 *the PDF header*
 
+#### manual compatibility fix
+
+The compatibility of this issue was tricky:
+some very simple vector drawings with Inkscape
+were corrupting Android & Kindle viewers and some MuPDF versions,
+but no other viewer or tool.
+
+These drawings are very standard and without any fancy feature
+(for example, gradients are typically wrong under Safari),
+but the page would stop rendering after these illustrations,
+while all the other pages were rendered fine.
+
+Running GhostScript on the file
+(thanks [Kurt](https://twitter.com/pdfkungfoo) for the pointer!) shows the following error:
+
+```
+   **** Error: Ignoring spurious ET operator.
+               Output may be incorrect.
+   **** Error: Executing Do inside a text block, attempting to recover
+               Output may be incorrect.
+```
+
+But it also displays the buggy picture - while all other softwares just stopped the rendering:
+
+<img width=200 src="contentbug.png"/>
+
+*a drawing with two arrows too thick*
+
+After running `mutool clean -d` to decompress the page contents,
+one can find:
+
+``` PostScript
+[...]
+0 0 0 rg BT
+25.980761 15 15 -25.980761 612.950443 680.352788 Tm
+/f-0-0 1 Tf
+[(collision)]TJ
+25.980761 -15 -15 -25.980761 6.96737 586.05846 Tm
+q
+[(collision)]TJ
+ET
+1 0 0 1 0 0 cm
+[...]
+```
+
+PDF has a lot of operators that have to be balanced
+(see GenDX's operators [cheat sheet](https://github.com/gendx/pdf-cheat-sheets)),
+and notably here:
+- `BT` (Begin Text) and `ET` (End Text)
+- `q` (push state) and `Q` (pop state).
+
+Clearly here, the *End Text* tag `ET` is after the graphical state push `q`, unbalanced.
+
+The quickest fix was to patch the page contents manually and rebalance the operators,
+then recompress the PDFs:
+
+``` PostScript
+[...]
+[(collision)]TJ
+ET
+q
+1 0 0 1 0 0 cm
+[...]
+```
+
+<img width=200 src="contentfixed.png"/>
+
+*a drawing with all arrows just fine*
+
+So just make sure you run GhostScript in your testing pipeline if you want better compatibility.
+
 ### a ZIP archive
 
 The file is also a valid ZIP file:
@@ -36,7 +107,8 @@ The file is also an HTML page with JavaScript payload.
 A tree of 3 chosen-prefix collisions of MD5 have been computed,
 so that for any suffixes, 4 prefixes can be swapped, and the file will keep its MD5.
 
-Each of these suffix start a different file type: a PDF document, a PE executable,
+Each of these suffix start a different file type:
+a PDF document, a PE executable,
 a PNG image and an MP4 video.
 
 <img width=300 src="filetypes.png"/>
