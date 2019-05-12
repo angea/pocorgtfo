@@ -41,7 +41,9 @@ Running GhostScript on the file
                Output may be incorrect.
 ```
 
-But it also displays the buggy picture - while all other softwares just stopped the rendering:
+But it also displays the buggy picture - while all other softwares with bugs
+just stopped the rendering,
+and most software would just overcome the mistake and display it the expected way!
 
 <img width=200 src="contentbug.png"/>
 
