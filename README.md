@@ -333,9 +333,11 @@
 1. This PDF is an NES ROM that prints its own MD5 hash! ([local](contents/issue14.pdf#page=56)) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n55/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik), [Evan Teran](https://twitter.com/@evan_teran)
 1. Tithe us your Alms of 0day! ([local](contents/issue14.pdf#page=60)) ([archive.org](https://archive.org/stream/pocorgtfo14#page/n59/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue14.png width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER"/> <img src=contents/issue14alt.png width=200px alt="MD5 collision cover"/>
+<img src=contents/issue14.png width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER (480 collisions hashquine)"/>
+<img src=contents/issue14alt.png width=200px alt="alt cover (1 collision)"/>
+<img src=contents/issue14nes.png width=200px alt="NES polyglot (128 collisions hashquine)"/>
 
-[release](releases/pocorgtfo14.pdf): iNES\*, ZIP, PDF\* -- \*MD5 hashquine `5eaf00d25c14232555a51a50b126746c`
+[release](releases/pocorgtfo14.pdf): iNES\*, ZIP, PDF\* -- \*MD5 **hashquine** `5eaf00d25c14232555a51a50b126746c`
 
 
 ### 0x15
@@ -415,7 +417,7 @@
 
 <img src=contents/issue18.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"/> <img src=contents/issue18alt.png width=200px alt="SHA-1 collision cover"/>
 
-[release](releases/pocorgtfo18.pdf): HTML\* PDF\* ZIP -- \*SHA-1 collision `191b636f80d0c74164ec9d9b3544decdaa2b7df5`
+[release](releases/pocorgtfo18.pdf): HTML\* PDF\* ZIP -- \*SHA-1 **collision** `191b636f80d0c74164ec9d9b3544decdaa2b7df5`
 
 
 ### 0x19
@@ -435,8 +437,12 @@
 1. What clever things have you learned lately? ([local](contents/issue19.pdf#page=80)) ([archive.org](https://archive.org/stream/pocorgtfo19#page/n79/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
 <img src=contents/issue19.png width=200px alt="This lonely old piano has a few more tunes! And so do you! And so do I!"/>
+<img src=contents/issue19png.png width=200px alt="PNG colliding image (a pileup diagram)"/>
+<img src=contents/issue19mp4.png width=200px alt="MP4 colliding video (a car collision)"/>
+<img src=contents/issue19pe.png width=200px alt="PE colliding executable (a PDF viewer)"/>
+<img src=contents/issue19html.png width=200px alt="HTML payload to switch prefixes"/>
 
-[release](releases/pocorgtfo19.pdf): HTML PDF\* ZIP -- \*MD5 pileup (PE/PDF/PNG/MP4) `ac75bf434f3624612cc3b6ee1aa59218` [writeup](writeups/19/README.md)
+[release](releases/pocorgtfo19.pdf): HTML PDF\* ZIP -- \*MD5 **pileup** (PE/PDF/PNG/MP4) `ac75bf434f3624612cc3b6ee1aa59218` [writeup](writeups/19/README.md)
 
 
 # Extras
