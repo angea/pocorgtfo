@@ -395,7 +395,7 @@
 1. Protecting ELF Files by Infecting Them ([local](contents/issue17.pdf#page=56)) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n55/mode/1up)) by [Leandro "acidx" Pereira](https://twitter.com/@lafp)
 1. Laphroaig's Home for Unwanted Polyglots and 0day ([local](contents/issue17.pdf#page=60)) ([archive.org](https://archive.org/stream/pocorgtfo17#page/n59/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue17.jpg width=200px alt="It's damned cold outside, so let's light ourselves a fire! warm ourselves with whiskey! and teach ourselves some tricks!"/>
+<img src=contents/issue17.jpg width=200px alt="It's damned cold outside, so let's light ourselves a fire! warm ourselves with whiskey! and teach ourselves some tricks!"/> <img src=contents/issue17agc.png width=200px alt="AGC polyglot"/> 
 
 [release](releases/pocorgtfo17.pdf): Apollo Guidance Computer, ZIP, PDF `40b8985521e671b59c305d2f5512f31b95f1e8c59b9c05ad2ca6413a99d59c97`
 
