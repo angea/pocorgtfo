@@ -84,7 +84,7 @@
 1. Juggernauty ([local](contents/issue02.pdf#page=30)) ([archive.org](https://archive.org/stream/Pocorgtfo02#page/n29/mode/1up)) by [Ben Nagy](https://twitter.com/@rantyben)
 1. A Call for PoC ([local](contents/issue02.pdf#page=32)) ([archive.org](https://archive.org/stream/Pocorgtfo02#page/n31/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue02.png width=200px alt="Composed by the Rt. Revd. Pastor Manul Laphroaig to put pwnage before politics."/>
+<img src=contents/issue02.png width=200px alt="Composed by the Rt. Revd. Pastor Manul Laphroaig to put pwnage before politics."/> <img src=contents/issue02mbr.png width=350px alt="Master Boot Record polyglot"/>
 
 [release](releases/pocorgtfo02.pdf): MBR, ZIP, PDF `f427e8d95c0ac15abe61d96fb75cfb55df1fd5ac9e713cf968f3602267ca155e`
 
@@ -104,9 +104,10 @@
 1. A Binary Magic Trick, Angecryption ([local](contents/issue03.pdf#page=37)) ([archive.org](https://archive.org/stream/pocorgtfo03#page/n36/mode/1up)) by [Ange Albertini](https://twitter.com/@angealbertini), [Jean-Philippe Aumasson](https://twitter.com/@veorq)
 1. A Call for PoC ([local](contents/issue03.pdf#page=40)) ([archive.org](https://archive.org/stream/pocorgtfo03#page/n39/mode/1up)) by Rt. Revd. Dr.Pastor Manul Laphroaig
 
-<img src=contents/issue03.png width=200px alt="AN ADDRESS to the SECRET SOCIETY of POC || GTFO concerning THE GOSPEL OF THE WEIRD MACHINES and also THE SMASHING OF IDOLS TO BITS AND BYTES by the Rt. Revd. Dr. PASTOR MANUL LAPHROAIG"/>
+<img src=contents/issue03.png width=200px alt="AN ADDRESS to the SECRET SOCIETY of POC &vert;&vert; GTFO concerning THE GOSPEL OF THE WEIRD MACHINES and also THE SMASHING OF IDOLS TO BITS AND BYTES by the Rt. Revd. Dr. PASTOR MANUL LAPHROAIG"/> <img src=contents/issue03.jpg width=300px alt="JPG polyglot"/> <img src=contents/issue03aes(png).png width=250px alt="PNG via AngeCryption"/> <img src=contents/issue03audio.png width=400px alt="AFSK raw audio"/>
 
-[release](releases/pocorgtfo03.pdf): JPG, AES(PNG), ZIP, PDF* `7094f5c6a3936e0d0b8f5e42b4d1940413f568e9a3617be0d7d6dc73cb3420e1`
+
+[release](releases/pocorgtfo03.pdf): JPG, AES(PNG), ZIP, AFSK, PDF* `7094f5c6a3936e0d0b8f5e42b4d1940413f568e9a3617be0d7d6dc73cb3420e1`
 
 
 ### 0x04
@@ -126,7 +127,7 @@
 1. Ode to ECB ([local](contents/issue04.pdf#page=46)) ([archive.org](https://archive.org/stream/pocorgtfo04#page/n45/mode/1up)) by [Ben Nagy](https://twitter.com/@rantyben)
 1. A Call for PoC ([local](contents/issue04.pdf#page=48)) ([archive.org](https://archive.org/stream/pocorgtfo04#page/n47/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue04.png width=200px alt="TRACT de la SOCIÉTÉ SECRÈTE de POC || GTFO sur L’ÉVANGILE DES MACHINES ÉTRANGES et autres SUJETS TECHNIQUES par le prédicateur PASTEUR MANUL LAPHROAIG"/>
+<img src=contents/issue04.png width=200px alt="TRACT de la SOCIÉTÉ SECRÈTE de POC &vert;&vert; GTFO sur L’ÉVANGILE DES MACHINES ÉTRANGES et autres SUJETS TECHNIQUES par le prédicateur PASTEUR MANUL LAPHROAIG"/> <img src=contents/issue04tc.png width=300px alt="TrueCrypt polyglot"/>
 
 [release](releases/pocorgtfo04.pdf): TrueCrypt, ZIP, PDF `1d1567b8ac533cd142a8af560266ca60939fed02e3af1f6fd0816b26473afd01`
 
@@ -148,7 +149,7 @@
 1. Ancestral Voices Or, a vision in a nightmare. ([local](contents/issue05.pdf#page=54)) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n53/mode/1up)) by [Ben Nagy](https://twitter.com/@rantyben)
 1. A Call for PoC ([local](contents/issue05.pdf#page=56)) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n55/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue05.png width=200px alt="PoC || GTFO; addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS"/>
+<img src=contents/issue05.png width=200px alt="PoC &vert;&vert; GTFO; addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS"/> <img src=contents/issue05iso.png width=200px alt="ISO polyglot"/>  <img src=contents/issue05swf.png width=200px alt="Flash polyglot"/>
 
 [release](releases/pocorgtfo05.pdf): ISO, SWF, ZIP, PDF* `9623609a9c0ecd95674e6da3de322baa141f5460cbcb93eeaade22eaf2c80640`
 
