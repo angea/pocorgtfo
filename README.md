@@ -188,7 +188,7 @@
 1. A Modern Cybercriminal ([local](contents/issue07.pdf#page=62)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n61/mode/1up)) by [Ben Nagy](https://twitter.com/@rantyben)
 1. Fast Cash for Bugs! ([local](contents/issue07.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n63/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC || GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/>
+<img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/> 
 
 [release](releases/pocorgtfo07.pdf): BPG, HTML, ZIP, PDF `601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`
 
