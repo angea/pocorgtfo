@@ -356,7 +356,7 @@
 1. The Gamma Trick: Two PNGs for the price of one ([local](contents/issue15.pdf#page=97)) ([archive.org](https://archive.org/stream/pocorgtfo15#page/n96/mode/1up)) by [Hector Martin 'marcan'](https://twitter.com/@marcan42)
 1. Laphroaig's Home for Unwanted Polyglots and 0day ([local](contents/issue15.pdf#page=100)) ([archive.org](https://archive.org/stream/pocorgtfo15#page/n99/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue15.jpg width=200px alt="I SLIPPED A LITTLE BUT LAPHROAIG WAS THERE WITH A HELPING HAND, A NIFTY IDEA, AND TWO LITERS OF COFFEE"/>
+<img src=contents/issue15.jpg width=200px alt="I SLIPPED A LITTLE BUT LAPHROAIG WAS THERE WITH A HELPING HAND, A NIFTY IDEA, AND TWO LITERS OF COFFEE"/> <img src=contents/issue15ilda.jpg width=200px alt="ILDA polyglot"/> 
 
 [release](releases/pocorgtfo15.pdf): ILDA, ZIP, PDF `c9b3f5026640efae12d75e62868931e2b2b5ad98a9b858408266ac5c35815bf4`
 
