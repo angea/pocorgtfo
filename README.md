@@ -235,7 +235,7 @@
 1. Oona's Puzzle Corner! ([local](contents/issue09.pdf#page=62)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n61/mode/1up)) by [Oona Räisänen](https://twitter.com/@windyoona)
 1. Fast Cash for Cyber Munitions! ([local](contents/issue09.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo09#page/n63/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue09.png width=200px alt="PoC || GTFO PASTOR MANUL LAPHROAIG’S TABERNACLE CHOIR SINGS REVERENT ELEGIES OF THE SECOND CRYPTO WAR"/>
+<img src=contents/issue09.png width=200px alt="PoC &vert;&vert; GTFO PASTOR MANUL LAPHROAIG’S TABERNACLE CHOIR SINGS REVERENT ELEGIES OF THE SECOND CRYPTO WAR"/> <img src=contents/issue09wv.png width=200px alt="WavPack polyglot"/> 
 
 [release](releases/pocorgtfo09.pdf): WavPack, ZIP, PDF `8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad`
 
@@ -310,7 +310,7 @@
 1. Post Scriptum: A Schizophrenic Ghost ([local](contents/issue13.pdf#page=71)) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n70/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik), [Philippe Teuwen](https://twitter.com/@doegox)
 1. Tithe us your Alms of 0day! ([local](contents/issue13.pdf#page=72)) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n71/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/>
+<img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/> <img src=contents/issue13ps.png width=150px alt="PostScript polyglot"/> 
 
 [release](releases/pocorgtfo13.pdf): PS, ZIP, PDF `c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`
 
@@ -442,7 +442,7 @@
 
 # Extras
 
-<img src=extras/pdftagram.svg width=200px alt="PoC||GTFO's PDFtagram"></img>
+<img src=extras/pdftagram.svg width=200px alt="PoC&vert;&vert;GTFO's PDFtagram"></img>
 PoC||GTFO's PDFtagram [png](extras/pdftagram.svg) [svg](extras/pdftagram.svg)
 
 <img src=extras/glyphsign.svg width=200px alt="Volume II's Glyph of the Dead"></img>
