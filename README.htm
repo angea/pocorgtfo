@@ -11,6 +11,71 @@
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
+  <style type="text/css">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; position: absolute; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; }
+pre.numberSource a.sourceLine:empty
+  { position: absolute; }
+pre.numberSource a.sourceLine::before
+  { content: attr(data-line-number);
+    position: absolute; left: -5em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+  </style>
   <link rel="stylesheet" href="pandoc.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
@@ -166,8 +231,12 @@
 <li>Observable Metrics (<a href="contents/issue06.pdf#page=50">local</a>) (<a href="https://archive.org/stream/pocorgtfo06#page/n49/mode/1up">archive.org</a>) by <a href="https://twitter.com/@DonAndrewBailey">Don A. Bailey</a>, Tamara L. Rhoads, <a href="https://twitter.com/@ACKFlags">Jaime Cochran</a></li>
 <li>A Call for PoC (<a href="contents/issue06.pdf#page=56">local</a>) (<a href="https://archive.org/stream/pocorgtfo06#page/n55/mode/1up">archive.org</a>) by Pastor Manul Laphroaig</li>
 </ol>
-<img src=contents/issue06.png width=200px alt="PoC || GTFO; brings that OLD TIMEY EXPLOITATION with a WEIRD MACHINE JAMBOREE and our world-famous FUNKY FILE FLEA MARKET not to be ironic, but because WE LOVE THE MUSIC!"/>
+<img src=contents/issue06.png width=200px alt="PoC &vert;&vert; GTFO; brings that OLD TIMEY EXPLOITATION with a WEIRD MACHINE JAMBOREE and our world-famous FUNKY FILE FLEA MARKET not to be ironic, but because WE LOVE THE MUSIC!"/>
 
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" data-line-number="1">$ <span class="fu">tar</span> -tvf pocorgtfo06.pdf</a>
+<a class="sourceLine" id="cb1-2" data-line-number="2"><span class="ex">-rw-r--r--</span> Manul/Laphroaig 0 2014-10-06 21:33 %PDF-1.5</a>
+<a class="sourceLine" id="cb1-3" data-line-number="3"><span class="ex">-rw-r--r--</span> Manul/Laphroaig 525849 2014-10-06 21:33 1.png</a>
+<a class="sourceLine" id="cb1-4" data-line-number="4"><span class="ex">-rw-r--r--</span> Manul/Laphroaig 273658 2014-10-06 21:33 2.bmp</a></code></pre></div>
 <p><a href="releases/pocorgtfo06.pdf">release</a>: TAR, ZIP, PDF <code>bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26</code></p>
 <h3 id="0x07">0x07</h3>
 <ol>
@@ -184,7 +253,7 @@
 <li>A Modern Cybercriminal (<a href="contents/issue07.pdf#page=62">local</a>) (<a href="https://archive.org/stream/pocorgtfo07#page/n61/mode/1up">archive.org</a>) by <a href="https://twitter.com/@rantyben">Ben Nagy</a></li>
 <li>Fast Cash for Bugs! (<a href="contents/issue07.pdf#page=64">local</a>) (<a href="https://archive.org/stream/pocorgtfo07#page/n63/mode/1up">archive.org</a>) by Pastor Manul Laphroaig</li>
 </ol>
-<p><img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/></p>
+<p><img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/> <img src=contents/issue07html.png width=200px alt="HTML payload"/></p>
 <p><a href="releases/pocorgtfo07.pdf">release</a>: BPG, HTML, ZIP, PDF <code>601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f</code></p>
 <h2 id="volume-">Volume ][</h2>
 <p><a href="https://nostarch.com/gtfo2"><img src=extras/glyphsign.svg width=100px alt="Volume II's glyph'"/> Buy</a></p>
@@ -204,8 +273,10 @@
 <li>Grammatically Correct Encryption (<a href="contents/issue08.pdf#page=60">local</a>) (<a href="https://archive.org/stream/pocorgtfo08#page/n59/mode/1up">archive.org</a>) by <a href="https://twitter.com/@doegox">Philippe Teuwen</a></li>
 <li>Fast Cash for Cyber Munitions! (<a href="contents/issue08.pdf#page=64">local</a>) (<a href="https://archive.org/stream/pocorgtfo08#page/n63/mode/1up">archive.org</a>) by Pastor Manul Laphroaig</li>
 </ol>
-<img src=contents/issue08.png width=200px alt="AS EXPLOITS SIT LONELY, FORGOTTEN ON THE SHELF YOUR FRIENDLY NEIGHBORS AT PoC || GTFO PROUDLY PRESENT PASTOR MANUL LAPHROAIG’S EXPORT–CONTROLLED CHURCH NEWSLETTER"/>
+<img src=contents/issue08.png width=200px alt="AS EXPLOITS SIT LONELY, FORGOTTEN ON THE SHELF YOUR FRIENDLY NEIGHBORS AT PoC &vert;&vert; GTFO PROUDLY PRESENT PASTOR MANUL LAPHROAIG’S EXPORT–CONTROLLED CHURCH NEWSLETTER"/>
 
+<div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb2-1" data-line-number="1">$ <span class="bu">echo</span> <span class="st">&quot;terrible raccoons achieve their escapades&quot;</span> <span class="kw">|</span> <span class="ex">./pocorgtfo08.pdf</span> -d 4321</a>
+<a class="sourceLine" id="cb2-2" data-line-number="2"><span class="ex">good</span> neighbors secure their communications</a></code></pre></div>
 <p><a href="releases/pocorgtfo08.pdf">release</a>: Shell, ZIP, PDF <code>7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33</code></p>
 <h3 id="0x09">0x09</h3>
 <ol>
@@ -238,8 +309,7 @@
 <li>Jailbreaking the TYT MD380 DMR Handheld (<a href="contents/issue10.pdf#page=76">local</a>) (<a href="https://archive.org/stream/pocorgtfo10#page/n75/mode/1up">archive.org</a>) by <a href="https://twitter.com/@travisgoodspeed">Travis Goodspeed KK4VCZ</a>, <a href="https://twitter.com/@dd4cr">DD4CR</a>, W7PCH</li>
 <li>Tithe us your Alms of 0day! (<a href="contents/issue10.pdf#page=88">local</a>) (<a href="https://archive.org/stream/pocorgtfo10#page/n87/mode/1up">archive.org</a>) by Pastor Manul Laphroaig</li>
 </ol>
-<img src=contents/issue10.jpg width=200px alt="IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!"/>
-
+<p><img src=contents/issue10.jpg width=200px alt="IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!"/> <img src=contents/issue10lsmv.jpg width=200px alt="LSMV payload"/></p>
 <p><a href="releases/pocorgtfo10.pdf">release</a>: LSMV, ZIP, PDF <code>1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de</code></p>
 <h3 id="0x11">0x11</h3>
 <ol>
@@ -255,8 +325,7 @@
 <li>Ben &quot;bushing&quot; Byer Memorial (<a href="contents/issue11.pdf#page=38">local</a>) (<a href="https://archive.org/stream/pocorgtfo11#page/n37/mode/1up">archive.org</a>) by <a href="https://twitter.com/fail0verflow">fail0verflow</a></li>
 <li>Tithe us your Alms of 0day! (<a href="contents/issue11.pdf#page=40">local</a>) (<a href="https://archive.org/stream/pocorgtfo11#page/n39/mode/1up">archive.org</a>) by Pastor Manul Laphroaig</li>
 </ol>
-<img src=contents/issue11.jpg width=200px alt="IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!"/>
-
+<p><img src=contents/issue11.jpg width=200px alt="IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!"/> <img src=contents/issue11server.png width=200px alt="Ruby server"/></p>
 <p><a href="releases/pocorgtfo11.pdf">release</a>: RUBY, HTML, ZIP, PDF <code>44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78</code></p>
 <h3 id="0x12">0x12</h3>
 <ol>
@@ -273,8 +342,7 @@
 <li>Are Androids Polyglots? (<a href="contents/issue12.pdf#page=79">local</a>) (<a href="https://archive.org/stream/pocorgtfo12#page/n78/mode/1up">archive.org</a>) by <a href="https://twitter.com/@doegox">Philippe Teuwen</a></li>
 <li>Tithe us your Alms of 0day! (<a href="contents/issue12.pdf#page=80">local</a>) (<a href="https://archive.org/stream/pocorgtfo12#page/n79/mode/1up">archive.org</a>) by Rt. Revd. Pastor Manul Laphroaig</li>
 </ol>
-<img src=contents/issue12.jpg width=200px alt="COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!"/>
-
+<p><img src=contents/issue12.jpg width=200px alt="COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!"/> <img src=contents/issue12apk.png width=150px alt="APK polyglot install"/> <img src=contents/issue12apk2.png width=150px alt="APK polyglot screen"/></p>
 <p><a href="releases/pocorgtfo12.pdf">release</a>: APK, ZIP, PDF <code>441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b</code></p>
 <h3 id="0x13">0x13</h3>
 <ol>
@@ -290,7 +358,7 @@
 <li>Post Scriptum: A Schizophrenic Ghost (<a href="contents/issue13.pdf#page=71">local</a>) (<a href="https://archive.org/stream/pocorgtfo13#page/n70/mode/1up">archive.org</a>) by <a href="https://twitter.com/@ESultanik">Evan Sultanik</a>, <a href="https://twitter.com/@doegox">Philippe Teuwen</a></li>
 <li>Tithe us your Alms of 0day! (<a href="contents/issue13.pdf#page=72">local</a>) (<a href="https://archive.org/stream/pocorgtfo13#page/n71/mode/1up">archive.org</a>) by Rt. Revd. Pastor Manul Laphroaig</li>
 </ol>
-<p><img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/> <img src=contents/issue13ps.png width=150px alt="PostScript polyglot"/></p>
+<p><img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/> <img src=contents/issue13ps.png width=300px alt="PostScript polyglot"/></p>
 <p><a href="releases/pocorgtfo13.pdf">release</a>: PS, ZIP, PDF <code>c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5</code></p>
 <h2 id="next">next...?</h2>
 <h3 id="0x14">0x14</h3>
@@ -346,8 +414,7 @@
 <li>This PDF is a Shell Script That Runs a Python Webserver That Serves a Scala-Based JavaScript Compiler With an HTML5 Hex Viewer; or, Reverse Engineer Your Own Damn Polyglot (<a href="contents/issue16.pdf#page=58">local</a>) (<a href="https://archive.org/stream/pocorgtfo16#page/n57/mode/1up">archive.org</a>) by <a href="https://twitter.com/@ESultanik">Evan Sultanik</a></li>
 <li>Laphroaig’s Home for Unwanted Polyglots and 0day (<a href="contents/issue16.pdf#page=59">local</a>) (<a href="https://archive.org/stream/pocorgtfo16#page/n58/mode/1up">archive.org</a>) by Rt. Revd. Pastor Manul Laphroaig</li>
 </ol>
-<img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/>
-
+<p><img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/> <img src=contents/issue07html.png width=200px alt="HTML payload"/> <img src=contents/issue16server.png width=200px alt="Bash+python+Kaitai payload"/> <img src=contents/issue16server2.png width=200px alt="splash screen"/></p>
 <p><a href="releases/pocorgtfo16.pdf">release</a>: Bash (python, WebIDE), ZIP, PDF <code>10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3</code></p>
 <h3 id="0x17">0x17</h3>
 <ol>

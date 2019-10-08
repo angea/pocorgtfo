@@ -168,7 +168,14 @@
 1. Observable Metrics ([local](contents/issue06.pdf#page=50)) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n49/mode/1up)) by [Don A. Bailey](https://twitter.com/@DonAndrewBailey), Tamara L. Rhoads, [Jaime Cochran](https://twitter.com/@ACKFlags)
 1. A Call for PoC ([local](contents/issue06.pdf#page=56)) ([archive.org](https://archive.org/stream/pocorgtfo06#page/n55/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue06.png width=200px alt="PoC || GTFO; brings that OLD TIMEY EXPLOITATION with a WEIRD MACHINE JAMBOREE and our world-famous FUNKY FILE FLEA MARKET not to be ironic, but because WE LOVE THE MUSIC!"/>
+<img src=contents/issue06.png width=200px alt="PoC &vert;&vert; GTFO; brings that OLD TIMEY EXPLOITATION with a WEIRD MACHINE JAMBOREE and our world-famous FUNKY FILE FLEA MARKET not to be ironic, but because WE LOVE THE MUSIC!"/>
+
+``` bash
+$ tar -tvf pocorgtfo06.pdf
+-rw-r--r-- Manul/Laphroaig 0 2014-10-06 21:33 %PDF-1.5
+-rw-r--r-- Manul/Laphroaig 525849 2014-10-06 21:33 1.png
+-rw-r--r-- Manul/Laphroaig 273658 2014-10-06 21:33 2.bmp
+```
 
 [release](releases/pocorgtfo06.pdf): TAR, ZIP, PDF `bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26`
 
@@ -188,7 +195,7 @@
 1. A Modern Cybercriminal ([local](contents/issue07.pdf#page=62)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n61/mode/1up)) by [Ben Nagy](https://twitter.com/@rantyben)
 1. Fast Cash for Bugs! ([local](contents/issue07.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n63/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/> 
+<img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/>  <img src=contents/issue07html.png width=200px alt="HTML payload"/> 
 
 [release](releases/pocorgtfo07.pdf): BPG, HTML, ZIP, PDF `601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`
 
@@ -213,7 +220,13 @@
 1. Grammatically Correct Encryption ([local](contents/issue08.pdf#page=60)) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n59/mode/1up)) by [Philippe Teuwen](https://twitter.com/@doegox)
 1. Fast Cash for Cyber Munitions! ([local](contents/issue08.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n63/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue08.png width=200px alt="AS EXPLOITS SIT LONELY, FORGOTTEN ON THE SHELF YOUR FRIENDLY NEIGHBORS AT PoC || GTFO PROUDLY PRESENT PASTOR MANUL LAPHROAIG’S EXPORT–CONTROLLED CHURCH NEWSLETTER"/>
+<img src=contents/issue08.png width=200px alt="AS EXPLOITS SIT LONELY, FORGOTTEN ON THE SHELF YOUR FRIENDLY NEIGHBORS AT PoC &vert;&vert; GTFO PROUDLY PRESENT PASTOR MANUL LAPHROAIG’S EXPORT–CONTROLLED CHURCH NEWSLETTER"/>
+
+``` bash
+$ echo "terrible raccoons achieve their escapades" | ./pocorgtfo08.pdf -d 4321
+good neighbors secure their communications
+```
+
 
 [release](releases/pocorgtfo08.pdf): Shell, ZIP, PDF `7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33`
 
@@ -252,7 +265,7 @@
 1. Jailbreaking the TYT MD380 DMR Handheld ([local](contents/issue10.pdf#page=76)) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n75/mode/1up)) by [Travis Goodspeed KK4VCZ](https://twitter.com/@travisgoodspeed), [DD4CR](https://twitter.com/@dd4cr), W7PCH
 1. Tithe us your Alms of 0day! ([local](contents/issue10.pdf#page=88)) ([archive.org](https://archive.org/stream/pocorgtfo10#page/n87/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue10.jpg width=200px alt="IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!"/>
+<img src=contents/issue10.jpg width=200px alt="IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!"/> <img src=contents/issue10lsmv.jpg width=200px alt="LSMV payload"/> 
 
 [release](releases/pocorgtfo10.pdf): LSMV, ZIP, PDF `1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de`
 
@@ -271,7 +284,7 @@
 1. Ben "bushing" Byer Memorial ([local](contents/issue11.pdf#page=38)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n37/mode/1up)) by [fail0verflow](https://twitter.com/fail0verflow)
 1. Tithe us your Alms of 0day! ([local](contents/issue11.pdf#page=40)) ([archive.org](https://archive.org/stream/pocorgtfo11#page/n39/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue11.jpg width=200px alt="IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!"/>
+<img src=contents/issue11.jpg width=200px alt="IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!"/> <img src=contents/issue11server.png width=200px alt="Ruby server"/> 
 
 [release](releases/pocorgtfo11.pdf): RUBY, HTML, ZIP, PDF `44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78`
 
@@ -291,7 +304,7 @@
 1. Are Androids Polyglots? ([local](contents/issue12.pdf#page=79)) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n78/mode/1up)) by [Philippe Teuwen](https://twitter.com/@doegox)
 1. Tithe us your Alms of 0day! ([local](contents/issue12.pdf#page=80)) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n79/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue12.jpg width=200px alt="COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!"/>
+<img src=contents/issue12.jpg width=200px alt="COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!"/> <img src=contents/issue12apk.png width=150px alt="APK polyglot install"/>  <img src=contents/issue12apk2.png width=150px alt="APK polyglot screen"/> 
 
 [release](releases/pocorgtfo12.pdf): APK, ZIP, PDF `441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b`
 
@@ -310,7 +323,7 @@
 1. Post Scriptum: A Schizophrenic Ghost ([local](contents/issue13.pdf#page=71)) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n70/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik), [Philippe Teuwen](https://twitter.com/@doegox)
 1. Tithe us your Alms of 0day! ([local](contents/issue13.pdf#page=72)) ([archive.org](https://archive.org/stream/pocorgtfo13#page/n71/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/> <img src=contents/issue13ps.png width=150px alt="PostScript polyglot"/> 
+<img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/> <img src=contents/issue13ps.png width=300px alt="PostScript polyglot"/> 
 
 [release](releases/pocorgtfo13.pdf): PS, ZIP, PDF `c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`
 
@@ -377,7 +390,7 @@
 1. This PDF is a Shell Script That Runs a Python Webserver That Serves a Scala-Based JavaScript Compiler With an HTML5 Hex Viewer; or, Reverse Engineer Your Own Damn Polyglot ([local](contents/issue16.pdf#page=58)) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n57/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik)
 1. Laphroaig’s Home for Unwanted Polyglots and 0day ([local](contents/issue16.pdf#page=59)) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n58/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/>
+<img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/> <img src=contents/issue07html.png width=200px alt="HTML payload"/> <img src=contents/issue16server.png width=200px alt="Bash+python+Kaitai payload"/>  <img src=contents/issue16server2.png width=200px alt="splash screen"/> 
 
 [release](releases/pocorgtfo16.pdf): Bash (python, WebIDE), ZIP, PDF `10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3`
 
