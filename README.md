@@ -390,7 +390,7 @@ good neighbors secure their communications
 1. This PDF is a Shell Script That Runs a Python Webserver That Serves a Scala-Based JavaScript Compiler With an HTML5 Hex Viewer; or, Reverse Engineer Your Own Damn Polyglot ([local](contents/issue16.pdf#page=58)) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n57/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik)
 1. Laphroaig’s Home for Unwanted Polyglots and 0day ([local](contents/issue16.pdf#page=59)) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n58/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/> <img src=contents/issue07html.png width=200px alt="HTML payload"/> <img src=contents/issue16server.png width=200px alt="Bash+python+Kaitai payload"/>  <img src=contents/issue16server2.png width=200px alt="splash screen"/> 
+<img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/> <img src=contents/issue16server.png width=200px alt="Bash+python+Kaitai payload"/>  <img src=contents/issue16server2.png width=200px alt="splash screen"/> 
 
 [release](releases/pocorgtfo16.pdf): Bash (python, WebIDE), ZIP, PDF `10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3`
 
