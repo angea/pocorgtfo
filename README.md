@@ -21,15 +21,16 @@
 - [0x12](#0x12) 2016-06-18, 80p
 - [0x13](#0x13) 2016-10-04, 72p
 
-[next...?](#next) 424p
+[next...?](#next)
 
-[<img src=contents/issue14.png width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) [<img src=contents/issue19.png width=50px alt="issue 19"/>](#0x19)
+[<img src=contents/issue14.png width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) [<img src=contents/issue19.png width=50px alt="issue 19"/>](#0x19) [<img src=contents/issue20.png width=50px alt="issue 20"/>](#0x20)
 - [0x14](#0x14) 2017-03-20, 60p
 - [0x15](#0x15) 2017-06-17, 100p
 - [0x16](#0x16) 2017-10-20, 60p
 - [0x17](#0x17) 2017-12-30, 60p
 - [0x18](#0x18) 2018-06-26, 64p
 - [0x19](#0x19) 2019-03-27, 80p
+- [0x20](#0x20) 2020-01-21, 80p
 
 [Extras](#extras)
 
@@ -149,7 +150,7 @@
 1. Ancestral Voices Or, a vision in a nightmare. ([local](contents/issue05.pdf#page=54)) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n53/mode/1up)) by [Ben Nagy](https://twitter.com/@rantyben)
 1. A Call for PoC ([local](contents/issue05.pdf#page=56)) ([archive.org](https://archive.org/stream/pocorgtfo05#page/n55/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue05.png width=200px alt="PoC &vert;&vert; GTFO; addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS"/> <img src=contents/issue05iso.png width=200px alt="ISO polyglot"/>  <img src=contents/issue05swf.png width=200px alt="Flash polyglot"/>
+<img src=contents/issue05.png width=200px alt="PoC &vert;&vert; GTFO; addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS"/> <img src=contents/issue05iso.png width=200px alt="ISO polyglot"/> <img src=contents/issue05swf.png width=200px alt="Flash polyglot"/>
 
 [release](releases/pocorgtfo05.pdf): ISO, SWF, ZIP, PDF* `9623609a9c0ecd95674e6da3de322baa141f5460cbcb93eeaade22eaf2c80640`
 
@@ -195,7 +196,7 @@ $ tar -tvf pocorgtfo06.pdf
 1. A Modern Cybercriminal ([local](contents/issue07.pdf#page=62)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n61/mode/1up)) by [Ben Nagy](https://twitter.com/@rantyben)
 1. Fast Cash for Bugs! ([local](contents/issue07.pdf#page=64)) ([archive.org](https://archive.org/stream/pocorgtfo07#page/n63/mode/1up)) by Pastor Manul Laphroaig
 
-<img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/>  <img src=contents/issue07html.png width=200px alt="HTML payload"/> 
+<img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/> <img src=contents/issue07html.png width=200px alt="HTML payload"/> 
 
 [release](releases/pocorgtfo07.pdf): BPG, HTML, ZIP, PDF `601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`
 
@@ -304,7 +305,7 @@ good neighbors secure their communications
 1. Are Androids Polyglots? ([local](contents/issue12.pdf#page=79)) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n78/mode/1up)) by [Philippe Teuwen](https://twitter.com/@doegox)
 1. Tithe us your Alms of 0day! ([local](contents/issue12.pdf#page=80)) ([archive.org](https://archive.org/stream/pocorgtfo12#page/n79/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue12.jpg width=200px alt="COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!"/> <img src=contents/issue12apk.png width=150px alt="APK polyglot install"/>  <img src=contents/issue12apk2.png width=150px alt="APK polyglot screen"/> 
+<img src=contents/issue12.jpg width=200px alt="COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!"/> <img src=contents/issue12apk.png width=150px alt="APK polyglot install"/> <img src=contents/issue12apk2.png width=150px alt="APK polyglot screen"/> 
 
 [release](releases/pocorgtfo12.pdf): APK, ZIP, PDF `441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b`
 
@@ -390,7 +391,7 @@ good neighbors secure their communications
 1. This PDF is a Shell Script That Runs a Python Webserver That Serves a Scala-Based JavaScript Compiler With an HTML5 Hex Viewer; or, Reverse Engineer Your Own Damn Polyglot ([local](contents/issue16.pdf#page=58)) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n57/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik)
 1. Laphroaig’s Home for Unwanted Polyglots and 0day ([local](contents/issue16.pdf#page=59)) ([archive.org](https://archive.org/stream/pocorgtfo16#page/n58/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/> <img src=contents/issue16server.png width=200px alt="Bash+python+Kaitai payload"/>  <img src=contents/issue16server2.png width=200px alt="splash screen"/> 
+<img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/> <img src=contents/issue16server.png width=200px alt="Bash+python+Kaitai payload"/> <img src=contents/issue16server2.png width=200px alt="splash screen"/> 
 
 [release](releases/pocorgtfo16.pdf): Bash (python, WebIDE), ZIP, PDF `10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3`
 
@@ -452,6 +453,24 @@ good neighbors secure their communications
 
 [release](releases/pocorgtfo19.pdf): HTML PDF\* ZIP -- \*MD5 **pileup** (PE/PDF/PNG/MP4) `ac75bf434f3624612cc3b6ee1aa59218` [writeup](writeups/19/README.md)
 
+
+### 0x20
+
+1. Let's start a band together! ([local](contents/issue20.pdf#page=3)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
+1. Let's Build a Geniza from the world's Flash Memory! ([local](contents/issue20.pdf#page=5)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n4/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
+1. NFC Exploitation with the RF430RFL152 and 'TAL152 ([local](contents/issue20.pdf#page=7)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n6/mode/1up)) by [Travis Goodspeed](https://twitter.com/@travisgoodspeed), [Axelle Apvrille](https://twitter.com/@cryptax)
+1. Turtles All the Way Down ([local](contents/issue20.pdf#page=14)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n13/mode/1up)) by [Charles Mangin](https://twitter.com/@option8)
+1. An Arbitrary Read Exploit for Ryzenfall ([local](contents/issue20.pdf#page=25)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n24/mode/1up)) by [David Kaplan](https://twitter.com/@depletionmode)
+1. A Short History of TI Calculator Hacks ([local](contents/issue20.pdf#page=32)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n31/mode/1up)) by [Brandon L. Wilson](https://twitter.com/@brandonlwilson)
+1. Modern ELF Infection Techniques of SCOP Binaries ([local](contents/issue20.pdf#page=45)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n44/mode/1up)) by [Ryan "ElfMaster" O'Neill](https://twitter.com/@ryan_elfmaster)
+1. Encryption is Not Integrity! ([local](contents/issue20.pdf#page=62)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n61/mode/1up)) by [Cornelius Diekmann](https://twitter.com/@popitter_net)
+1. RSA GTFO ([local](contents/issue20.pdf#page=68)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n67/mode/1up)) by [Ben Perez](https://twitter.com/@@blperez_)
+1. A Code Pirate’s Cutlass: Recovering Software Architecture from Embedded Binaries ([local](contents/issue20.pdf#page=73)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n72/mode/1up)) by [EVM](https://twitter.com/@evm_sec)
+1. What clever things have you learned lately? ([local](contents/issue20.pdf#page=80)) ([archive.org](https://archive.org/stream/pocorgtfo20#page/n79/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
+
+<img src=contents/issue20.png width=200px alt="Grab gifts from the genizah, reading every last page! And write in their margins! And give them all again!"/>
+
+[release](releases/pocorgtfo20.pdf): PDF, ZIP -- Signed `4aeb48b545a6f0ba5d945c216412724dcea54b8c7d2e39049ef5797bb2fcd25f`
 
 # Extras
 
