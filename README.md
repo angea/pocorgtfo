@@ -34,11 +34,14 @@
 
 [Extras](#extras)
 
+
 # Issues
+
 
 ## PoC||GTFO
 
 [<img src=extras/pdftagram.svg width=100px alt="PoC||GTFO's PDFtagram"/> Buy](https://nostarch.com/gtfo)
+
 
 ### 0x00
 
@@ -205,6 +208,7 @@ $ tar -tvf pocorgtfo06.pdf
 
 [<img src=extras/glyphsign.svg width=100px alt="Volume II's glyph'"/> Buy](https://nostarch.com/gtfo2)
 
+
 ### 0x08
 
 1. Please stand; now, please be seated. ([local](contents/issue08.pdf#page=3)) ([archive.org](https://archive.org/stream/pocorgtfo08#page/n2/mode/1up))
@@ -227,7 +231,6 @@ $ tar -tvf pocorgtfo06.pdf
 $ echo "terrible raccoons achieve their escapades" | ./pocorgtfo08.pdf -d 4321
 good neighbors secure their communications
 ```
-
 
 [release](releases/pocorgtfo08.pdf): Shell, ZIP, PDF `7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33`
 
@@ -470,7 +473,23 @@ good neighbors secure their communications
 
 <img src=contents/issue20.png width=200px alt="Grab gifts from the genizah, reading every last page! And write in their margins! And give them all again!"/>
 
+``` bash
+$ pdfsig pocorgtfo20.pdf
+Digital Signature Info of: pocorgtfo20.pdf
+Signature #1:
+  - Signer Certificate Common Name: TI-83 Plus Silver Edition OS Signing Key
+  - Signer full Distinguished Name: CN=TI-83 Plus Silver Edition OS Signing Key
+  - Signing Time: Jan 21 2020 19:28:53
+  - Signing Hash Algorithm: SHA1
+  - Signature Type: adbe.pkcs7.sha1
+  - Signed Ranges: [0 - 39897127], [39898675 - 39903679]
+  - Total document signed
+  - Signature Validation: Signature is Valid.
+  - Certificate Validation: Certificate issuer isn't Trusted.
+```
+
 [release](releases/pocorgtfo20.pdf): PDF, ZIP -- Signed `4aeb48b545a6f0ba5d945c216412724dcea54b8c7d2e39049ef5797bb2fcd25f`
+
 
 # Extras
 
