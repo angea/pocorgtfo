@@ -21,14 +21,18 @@
 - [0x12](#0x12) 2016-06-18, 80p
 - [0x13](#0x13) 2016-10-04, 72p
 
-[next...?](#next)
+[Volume III](#volume-iii) 2021-01, 800p
 
-[<img src=contents/issue14.png width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18) [<img src=contents/issue19.png width=50px alt="issue 19"/>](#0x19) [<img src=contents/issue20.png width=50px alt="issue 20"/>](#0x20)
+[<img src=contents/issue14.png width=50px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=50px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=50px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=50px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=50px alt="issue 18"/>](#0x18)
 - [0x14](#0x14) 2017-03-20, 60p
 - [0x15](#0x15) 2017-06-17, 100p
 - [0x16](#0x16) 2017-10-20, 60p
 - [0x17](#0x17) 2017-12-30, 60p
 - [0x18](#0x18) 2018-06-26, 64p
+
+[next...?](#next)
+
+[<img src=contents/issue19.png width=50px alt="issue 19"/>](#0x19) [<img src=contents/issue20.png width=50px alt="issue 20"/>](#0x20)
 - [0x19](#0x19) 2019-03-27, 80p
 - [0x20](#0x20) 2020-01-21, 80p
 
@@ -332,7 +336,9 @@ good neighbors secure their communications
 [release](releases/pocorgtfo13.pdf): PS, ZIP, PDF `c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`
 
 
-## next...?
+## Volume III
+
+[Buy](https://nostarch.com/gtfo3)
 
 
 ### 0x14
@@ -435,6 +441,8 @@ good neighbors secure their communications
 
 [release](releases/pocorgtfo18.pdf): HTML\* PDF\* ZIP -- \*SHA-1 **collision** `191b636f80d0c74164ec9d9b3544decdaa2b7df5`
 
+
+## next...?
 
 ### 0x19
 
