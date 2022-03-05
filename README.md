@@ -2,40 +2,43 @@
 [<img src=extras/pdftagram.svg width=75px alt="PoC||GTFO's PDFtagram"/> PoC||GTFO](#pocgtfo) 2017-08, 327p
 
 [<img src=contents/issue00.png width=75px alt="issue 00"/>](#0x00) [<img src=contents/issue01.png width=75px alt="issue 01"/>](#0x01) [<img src=contents/issue02.png width=75px alt="issue 02"/>](#0x02) [<img src=contents/issue03.png width=75px alt="issue 03"/>](#0x03) [<img src=contents/issue04.png width=75px alt="issue 04"/>](#0x04) [<img src=contents/issue05.png width=75px alt="issue 05"/>](#0x05) [<img src=contents/issue06.png width=75px alt="issue 06"/>](#0x06) [<img src=contents/issue07.png width=75px alt="issue 07"/>](#0x07) 
-- [0x00](#0x00) 2013-08-05, 14p: An epistle from the desk of ...
-- [0x01](#0x01) 2013-10-06, 17p: From the writing desk, not the raven...
-- [0x02](#0x02) 2013-12-28, 32p: Composed by the Rt. Revd. Pastor Manul Laphroaig to put pwnage before politics.
-- [0x03](#0x03) 2014-03-02, 40p: ... the gospel of the weird machines and also the smashing of idols to bits ...
-- [0x04](#0x04) 2014-06-27, 48p: Tract de la société secrète de PoC||GTFO sur l’évangile des machines étranges ...
-- [0x05](#0x05) 2014-08-10, 56p: PoC||GTFO addressed to the inhabitants of earth on the following and ...
-- [0x06](#0x06) 2014-11-25, 56p: ...t old timey exploitation with a weird machine jamboree ...
-- [0x07](#0x07) 2015-03-19, 64p: ... calisthenics & orthodontia in remembrance of our beloved dr. dobb ...
+- [0x00](#0x00) 2013-08-05, 14p: International Journal
+- [0x01](#0x01) 2013-10-06, 17p: Proceedings of the Society
+- [0x02](#0x02) 2013-12-28, 32p: Children’s Bible Coloring Book
+- [0x03](#0x03) 2014-03-02, 40p: An Address to the Secret Society
+- [0x04](#0x04) 2014-06-27, 48p: Tract de la Société Secrète
+- [0x05](#0x05) 2014-08-10, 56p: Addressed to the Inhabitants of Earth
+- [0x06](#0x06) 2014-11-25, 56p: Old Timey Exploitation
+- [0x07](#0x07) 2015-03-19, 64p: Calisthenics & orthodontia
+
 
 [<img src=extras/glyphsign.svg width=75px alt="Volume II's glyph'"/> Volume II](#volume-) 2018-08, 408p
 
 [<img src=contents/issue08.png width=75px alt="issue 08"/>](#0x08) [<img src=contents/issue09.png width=75px alt="issue 09"/>](#0x09) [<img src=contents/issue10.jpg width=75px alt="issue 10"/>](#0x10) [<img src=contents/issue11.jpg width=75px alt="issue 11"/>](#0x11) [<img src=contents/issue12.jpg width=75px alt="issue 12"/>](#0x12) [<img src=contents/issue13.png width=75px alt="issue 13"/>](#0x13) 
-- [0x08](#0x08) 2015-06-20, 64p: As exploits sit lonely, forgotten on the shelf your friendly neighbors at ...
-- [0x09](#0x09) 2015-09-14, 64p: ... tabernacle choir sings reverent elegies of the second crypto war
-- [0x10](#0x10) 2016-01-16, 88p: In the theater of literate disassembly, Pastor Manul Laphroaig and his merry band ...
-- [0x11](#0x11) 2016-03-17, 40p: In a fit of stubborn optimism, Pastor Manul Laphroaig and his clever crew set sail ...
-- [0x12](#0x12) 2016-06-18, 80p: Collecting bottles of broken things, Pastor Manul Laphroaig with theory and praxis ...
-- [0x13](#0x13) 2016-10-04, 72p: Pastor Laphroaig's mercy ship holds stones from the ivory tower, but only as ballast!
+- [0x08](#0x08) 2015-06-20, 64p: Export–Controlled Church Newsletter
+- [0x09](#0x09) 2015-09-14, 64p: Reverent Elegies of the Second Crypto War
+- [0x10](#0x10) 2016-01-16, 88p: The Engine that Runs the World
+- [0x11](#0x11) 2016-03-17, 40p: Welcoming Shores of the Great Unknown
+- [0x12](#0x12) 2016-06-18, 80p: A Look Behind the Curtain
+- [0x13](#0x13) 2016-10-04, 72p: Stones from the ivory tower
+
 
 [Volume III](#volume-iii) 2021-01, 800p
 
 [<img src=contents/issue14.png width=75px alt="issue 14"/>](#0x14) [<img src=contents/issue15.jpg width=75px alt="issue 15"/>](#0x15) [<img src=contents/issue16.jpg width=75px alt="issue 16"/>](#0x16) [<img src=contents/issue17.jpg width=75px alt="issue 17"/>](#0x17) [<img src=contents/issue18.png width=75px alt="issue 18"/>](#0x18)
-- [0x14](#0x14) 2017-03-20, 60p: Pastor Laphroaig screams high five to the heavens as the whole world goes under
-- [0x15](#0x15) 2017-06-17, 100p: I slipped a little but Laphroaig was there with a helping hand, a nifty idea...
-- [0x16](#0x16) 2017-10-20, 60p: Pastor Laphroaig races the runtime relinker and other true tales of cleverness and craft
-- [0x17](#0x17) 2017-12-30, 60p: It's damned cold outside, so let's light ourselves a fire! ...
-- [0x18](#0x18) 2018-06-26, 64p: Pastor Manul Laphroaig's montessori soldering school and stack smashing academy ...
+- [0x14](#0x14) 2017-03-20, 60p: High Five to the Heavens
+- [0x15](#0x15) 2017-06-17, 100p: I Slipped a Little
+- [0x16](#0x16) 2017-10-20, 60p: Laphroaig Races the Runtime Relinker
+- [0x17](#0x17) 2017-12-30, 60p: It's damned cold outside
+- [0x18](#0x18) 2018-06-26, 64p: Montessory Soldering School...
+
 
 [next...?](#next)
 
 [<img src=contents/issue19.png width=75px alt="issue 19"/>](#0x19) [<img src=contents/issue20.png width=75px alt="issue 20"/>](#0x20) [<img src=contents/issue21.png width=75px alt="issue 21"/>](#0x21)
-- [0x19](#0x19) 2019-03-27, 80p: This lonely old piano has a few more tunes! And so do you! And so do I!
-- [0x20](#0x20) 2020-01-21, 80p: Grab gifts from the genizah ... And give them all again!
-- [0x21](#0x21) 2022-02-12, 80p: Notebook of Altera NIOS Disassembly ... and UHF-VHF tuners
+- [0x19](#0x19) 2019-03-27, 80p: Janky Old Piano
+- [0x20](#0x20) 2020-01-21, 80p: Gifts from the Genizah
+- [0x21](#0x21) 2022-02-12, 80p: Notebook of Disassembly
 
 [Extras](#extras)
 
