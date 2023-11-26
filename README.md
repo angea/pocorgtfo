@@ -53,6 +53,8 @@
 
 ### 0x00
 
+[pocorgtfo00.pdf](releases/pocorgtfo00.pdf) [`c4d1d109..98f7ab64`](https://www.virustotal.com/gui/file/c4d1d1091187b98a9bb28452bc6564a1e8c0ce10d20ba2b4a20f8b7798f7ab64/details) polyglot: PDF ([PDF-only](contents/issue00.pdf))
+
 1. Call to Worship ([article](contents/articles/00-01.pdf), [in issue](contents/issue00.pdf#page=1), [archive.org](https://archive.org/stream/Pocorgtfo00#page/n0/mode/1up))
 1. Ipod Antiforensics ([article](contents/articles/00-02.pdf), [in issue](contents/issue00.pdf#page=2), [archive.org](https://archive.org/stream/Pocorgtfo00#page/n1/mode/1up)) by [Travis Goodspeed](https://twitter.com/@travisgoodspeed)
 1. ELFs are dorky, elves are cool ([article](contents/articles/00-03.pdf), [in issue](contents/issue00.pdf#page=4), [archive.org](https://archive.org/stream/Pocorgtfo00#page/n3/mode/1up)) by [Sergey Bratus](https://twitter.com/@sergeybratus), [Julian Bangert](https://twitter.com/@JulianBangert)
@@ -63,10 +65,10 @@
 
 <img src=contents/issue00.png width=200px alt="An epistle from the desk of Rt. Revd. Pastor Manul Laphroaig"/>
 
-[release](releases/pocorgtfo00.pdf): PDF `c4d1d1091187b98a9bb28452bc6564a1e8c0ce10d20ba2b4a20f8b7798f7ab64`
-
 
 ### 0x01
+
+[pocorgtfo01.pdf](releases/pocorgtfo01.pdf) [`a0f93a26..36c2cc88`](https://www.virustotal.com/gui/file/a0f93a265d38257a06fd7fd210f73ea9c55a94ac1305c65c0510ada236c2cc88/details) polyglot: ZIP, PDF ([PDF-only](contents/issue01.pdf))
 
 1. Call to Worship ([article](contents/articles/01-01.pdf), [in issue](contents/issue01.pdf#page=1), [archive.org](https://archive.org/stream/Pocorgtfo01#page/n0/mode/1up))
 1. Four Lines of Javascript that Can't Possibly Work So why do they? ([article](contents/articles/01-02.pdf), [in issue](contents/issue01.pdf#page=2), [archive.org](https://archive.org/stream/Pocorgtfo01#page/n1/mode/1up)) by [Dan Kaminsky](https://twitter.com/@dakami)
@@ -79,10 +81,10 @@
 
 <img src=contents/issue01.png width=200px alt="From the writing desk, not the raven, of Rt. Revd. Preacherman Pastor Manul Laphroaig"/>
 
-[release](releases/pocorgtfo01.pdf): ZIP, PDF `a0f93a265d38257a06fd7fd210f73ea9c55a94ac1305c65c0510ada236c2cc88`
-
 
 ### 0x02
+
+[pocorgtfo02.pdf](releases/pocorgtfo02.pdf) [`f427e8d9..67ca155e`](https://www.virustotal.com/gui/file/f427e8d95c0ac15abe61d96fb75cfb55df1fd5ac9e713cf968f3602267ca155e/details) polyglot: MBR, ZIP, PDF ([PDF-only](contents/issue02.pdf))
 
 1. Call to Worship ([article](contents/articles/02-01.pdf), [in issue](contents/issue02.pdf#page=1), [archive.org](https://archive.org/stream/Pocorgtfo02#page/n0/mode/1up))
 1. A Parable on the Importance of Tools; or, Build your own fucking birdfeeder. ([article](contents/articles/02-02.pdf), [in issue](contents/issue02.pdf#page=3), [archive.org](https://archive.org/stream/Pocorgtfo02#page/n2/mode/1up)) by Rt. Rvd. Pastor Manul Laphroaig
@@ -98,10 +100,10 @@
 
 <img src=contents/issue02.png width=200px alt="Composed by the Rt. Revd. Pastor Manul Laphroaig to put pwnage before politics."/> <img src=contents/issue02mbr.png width=350px alt="Master Boot Record polyglot"/>
 
-[release](releases/pocorgtfo02.pdf): MBR, ZIP, PDF `f427e8d95c0ac15abe61d96fb75cfb55df1fd5ac9e713cf968f3602267ca155e`
-
 
 ### 0x03
+
+[pocorgtfo03.pdf](releases/pocorgtfo03.pdf) [`7094f5c6..cb3420e1`](https://www.virustotal.com/gui/file/7094f5c6a3936e0d0b8f5e42b4d1940413f568e9a3617be0d7d6dc73cb3420e1/details) polyglot: JPG, AES(PNG), ZIP, AFSK, PDF* ([PDF-only](contents/issue03.pdf))
 
 1. Call to Worship ([article](contents/articles/03-01.pdf), [in issue](contents/issue03.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo03#page/n2/mode/1up))
 1. Greybeard's Luck ([article](contents/articles/03-02.pdf), [in issue](contents/issue03.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo03#page/n4/mode/1up)) by Rt. Revd. Dr. Pastor Manul Laphroaig
@@ -119,10 +121,9 @@
 <img src=contents/issue03.png width=200px alt="AN ADDRESS to the SECRET SOCIETY of POC &vert;&vert; GTFO concerning THE GOSPEL OF THE WEIRD MACHINES and also THE SMASHING OF IDOLS TO BITS AND BYTES by the Rt. Revd. Dr. PASTOR MANUL LAPHROAIG"/> <img src=contents/issue03.jpg width=300px alt="JPG polyglot"/> <img src=contents/issue03aes(png).png width=250px alt="PNG via AngeCryption"/> <img src=contents/issue03audio.png width=400px alt="AFSK raw audio"/>
 
 
-[release](releases/pocorgtfo03.pdf): JPG, AES(PNG), ZIP, AFSK, PDF* `7094f5c6a3936e0d0b8f5e42b4d1940413f568e9a3617be0d7d6dc73cb3420e1`
-
-
 ### 0x04
+
+[pocorgtfo04.pdf](releases/pocorgtfo04.pdf) [`1d1567b8..473afd01`](https://www.virustotal.com/gui/file/1d1567b8ac533cd142a8af560266ca60939fed02e3af1f6fd0816b26473afd01/details) polyglot: TrueCrypt, ZIP, PDF ([PDF-only](contents/issue04.pdf))
 
 1. Call to Worship ([article](contents/articles/04-01.pdf), [in issue](contents/issue04.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo04#page/n2/mode/1up))
 1. First Epistle Concerning the Bountiful Seeds of 0Day ([article](contents/articles/04-02.pdf), [in issue](contents/issue04.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo04#page/n3/mode/1up)) by Manul Laphroaig
@@ -141,10 +142,10 @@
 
 <img src=contents/issue04.png width=200px alt="TRACT de la SOCIÉTÉ SECRÈTE de POC &vert;&vert; GTFO sur L’ÉVANGILE DES MACHINES ÉTRANGES et autres SUJETS TECHNIQUES par le prédicateur PASTEUR MANUL LAPHROAIG"/> <img src=contents/issue04tc.png width=300px alt="TrueCrypt polyglot"/>
 
-[release](releases/pocorgtfo04.pdf): TrueCrypt, ZIP, PDF `1d1567b8ac533cd142a8af560266ca60939fed02e3af1f6fd0816b26473afd01`
-
 
 ### 0x05
+
+[pocorgtfo05.pdf](releases/pocorgtfo05.pdf) [`9623609a..f2c80640`](https://www.virustotal.com/gui/file/9623609a9c0ecd95674e6da3de322baa141f5460cbcb93eeaade22eaf2c80640/details) polyglot: ISO, SWF, ZIP, PDF* ([PDF-only](contents/issue05.pdf))
 
 1. Call to Worship ([article](contents/articles/05-01.pdf), [in issue](contents/issue05.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo05#page/n2/mode/1up))
 1. Stuff is broken, and only you know how ([article](contents/articles/05-02.pdf), [in issue](contents/issue05.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo05#page/n3/mode/1up)) by Rvd. Dr. Manul Laphroaig
@@ -163,10 +164,10 @@
 
 <img src=contents/issue05.png width=200px alt="PoC &vert;&vert; GTFO; addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS"/> <img src=contents/issue05iso.png width=200px alt="ISO polyglot"/> <img src=contents/issue05swf.png width=200px alt="Flash polyglot"/>
 
-[release](releases/pocorgtfo05.pdf): ISO, SWF, ZIP, PDF* `9623609a9c0ecd95674e6da3de322baa141f5460cbcb93eeaade22eaf2c80640`
-
 
 ### 0x06
+
+[pocorgtfo06.pdf](releases/pocorgtfo06.pdf) [`bf4d8846..1cb8ac26`](https://www.virustotal.com/gui/file/bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26/details) polyglot: TAR, ZIP, PDF ([PDF-only](contents/issue06.pdf))
 
 1. Sacrament of Communion with the Weird Machines ([article](contents/articles/06-01.pdf), [in issue](contents/issue06.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo06#page/n2/mode/1up))
 1. On Giving Thanks ([article](contents/articles/06-02.pdf), [in issue](contents/issue06.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo06#page/n3/mode/1up)) by Pastor Manul Laphroaig
@@ -189,10 +190,10 @@ $ tar -tvf pocorgtfo06.pdf
 -rw-r--r-- Manul/Laphroaig 273658 2014-10-06 21:33 2.bmp
 ```
 
-[release](releases/pocorgtfo06.pdf): TAR, ZIP, PDF `bf4d8846fbbb1071c7ec033004eda8ea8809676fe388db6faa020d781cb8ac26`
-
 
 ### 0x07
+
+[pocorgtfo07.pdf](releases/pocorgtfo07.pdf) [`601534f4..15e6a35f`](https://www.virustotal.com/gui/file/601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f/details) polyglot: BPG, HTML, ZIP, PDF ([PDF-only](contents/issue07.pdf))
 
 1. With what shall we commune this evening? ([article](contents/articles/07-01.pdf), [in issue](contents/issue07.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo07#page/n2/mode/1up))
 1. AA55, the Magic Number ([article](contents/articles/07-02.pdf), [in issue](contents/issue07.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo07#page/n3/mode/1up)) by Morgan Reece Phillips
@@ -209,8 +210,6 @@ $ tar -tvf pocorgtfo06.pdf
 
 <img src=contents/issue07.png width=200px alt="PASTOR MANUL LAPHROAIG's INTERNATIONAL JOURNAL OF PoC &vert;&vert; GTFO CALISTHENICS & ORTHODONTIA IN REMEMBRANCE OF OUR BELOVED DR. DOBB BECAUSE THE WORLD IS ALMOST THROUGH!"/> <img src=contents/issue07bpg.png width=200px alt="BPG payload"/> <img src=contents/issue07html.png width=200px alt="HTML payload"/> 
 
-[release](releases/pocorgtfo07.pdf): BPG, HTML, ZIP, PDF `601534f4355c5e0eb292c6dd6edaf5055625d23e0de869f88193606415e6a35f`
-
 
 ## Volume ][
 
@@ -218,6 +217,8 @@ $ tar -tvf pocorgtfo06.pdf
 
 
 ### 0x08
+
+[pocorgtfo08.pdf](releases/pocorgtfo08.pdf) [`7a942c42..b5654a33`](https://www.virustotal.com/gui/file/7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33/details) polyglot: Shell, ZIP, PDF ([PDF-only](contents/issue08.pdf))
 
 1. Please stand; now, please be seated. ([article](contents/articles/08-01.pdf), [in issue](contents/issue08.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo08#page/n2/mode/1up))
 1. Witches, Warlocks, and Wassenaar; or, On the Internet, no one knows you are a witch. ([article](contents/articles/08-02.pdf), [in issue](contents/issue08.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo08#page/n3/mode/1up))
@@ -240,10 +241,10 @@ $ echo "terrible raccoons achieve their escapades" | ./pocorgtfo08.pdf -d 4321
 good neighbors secure their communications
 ```
 
-[release](releases/pocorgtfo08.pdf): Shell, ZIP, PDF `7a942c425f471f99d8cba8da117cc4a53cddb3551e4b16c8b9feae31b5654a33`
-
 
 ### 0x09
+
+[pocorgtfo09.pdf](releases/pocorgtfo09.pdf) [`8ad70d4d..8502a6ad`](https://www.virustotal.com/gui/file/8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad/details) polyglot: WavPack, ZIP, PDF ([PDF-only](contents/issue09.pdf))
 
 1. Please stand; now, please be seated. ([article](contents/articles/09-01.pdf), [in issue](contents/issue09.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo09#page/n2/mode/1up))
 1. A Sermon on Newton and Turing ([article](contents/articles/09-02.pdf), [in issue](contents/issue09.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo09#page/n3/mode/1up)) by Pastor Manul Laphroaig
@@ -262,10 +263,10 @@ good neighbors secure their communications
 
 <img src=contents/issue09.png width=200px alt="PoC &vert;&vert; GTFO PASTOR MANUL LAPHROAIG’S TABERNACLE CHOIR SINGS REVERENT ELEGIES OF THE SECOND CRYPTO WAR"/> <img src=contents/issue09wv.png width=200px alt="WavPack polyglot"/> 
 
-[release](releases/pocorgtfo09.pdf): WavPack, ZIP, PDF `8ad70d4dd0c0f53e8c479d1d573e5a365ea673acafa9fd61fa5231e18502a6ad`
-
 
 ### 0x10
+
+[pocorgtfo10.pdf](releases/pocorgtfo10.pdf) [`1e350e30..b295c9de`](https://www.virustotal.com/gui/file/1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de/details) polyglot: LSMV, ZIP, PDF ([PDF-only](contents/issue10.pdf))
 
 1. Please stand; now, please be seated. ([article](contents/articles/10-01.pdf), [in issue](contents/issue10.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo10#page/n2/mode/1up))
 1. The Small Brown Dog and the Three Ghosts ([article](contents/articles/10-02.pdf), [in issue](contents/issue10.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo10#page/n3/mode/1up)) by Pastor Manul Laphroaig
@@ -279,10 +280,10 @@ good neighbors secure their communications
 
 <img src=contents/issue10.jpg width=200px alt="IN THE THEATER OF LITERATE DISASSEMBLY, PASTOR MANUL LAPHROAIG AND HIS MERRY BAND OF REVERSE ENGINEERS LIFT THE WELDED HOOD FROM THE ENGINE THAT RUNS THE WORLD!"/> <img src=contents/issue10lsmv.jpg width=200px alt="LSMV payload"/> 
 
-[release](releases/pocorgtfo10.pdf): LSMV, ZIP, PDF `1e350e30383fd332678654b6067fe4b6ea3d25d7f41a24a4c81fe913b295c9de`
-
 
 ### 0x11
+
+[pocorgtfo11.pdf](releases/pocorgtfo11.pdf) [`44d56d71..35b04c78`](https://www.virustotal.com/gui/file/44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78/details) polyglot: RUBY, HTML, ZIP, PDF ([PDF-only](contents/issue11.pdf))
 
 1. Please stand; now, please be seated. ([article](contents/articles/11-01.pdf), [in issue](contents/issue11.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo11#page/n2/mode/1up)) by Pastor Manul Laphroaig
 1. In Praise of Junk Hacking ([article](contents/articles/11-02.pdf), [in issue](contents/issue11.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo11#page/n3/mode/1up)) by Pastor Manul Laphroaig
@@ -298,10 +299,10 @@ good neighbors secure their communications
 
 <img src=contents/issue11.jpg width=200px alt="IN A FIT OF STUBBORN OPTIMISM, PASTOR MANUL LAPHROAIG AND HIS CLEVER CREW SET SAIL TOWARD WELCOMING SHORES OF THE GREAT UNKNOWN!"/> <img src=contents/issue11server.png width=200px alt="Ruby server"/> 
 
-[release](releases/pocorgtfo11.pdf): RUBY, HTML, ZIP, PDF `44d56d717c7b3baf7e11aa6624d5a80a90b132a519e61b9682a5f4a635b04c78`
-
 
 ### 0x12
+
+[pocorgtfo12.pdf](releases/pocorgtfo12.pdf) [`441216e4..ff9cf08b`](https://www.virustotal.com/gui/file/441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b/details) polyglot: APK, ZIP, PDF ([PDF-only](contents/issue12.pdf))
 
 1. Lisez moi! ([article](contents/articles/12-01.pdf), [in issue](contents/issue12.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo12#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Surviving the Computation Bomb ([article](contents/articles/12-02.pdf), [in issue](contents/issue12.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo12#page/n3/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
@@ -318,10 +319,10 @@ good neighbors secure their communications
 
 <img src=contents/issue12.jpg width=200px alt="COLLECTING BOTTLES OF BROKEN THINGS, PASTOR MANUL LAPHROAIG WITH THEORY AND PRAXIS COULD BE THE MAN WHO SNEAKS A LOOK BEHIND THE CURTAIN!"/> <img src=contents/issue12apk.png width=150px alt="APK polyglot install"/> <img src=contents/issue12apk2.png width=150px alt="APK polyglot screen"/> 
 
-[release](releases/pocorgtfo12.pdf): APK, ZIP, PDF `441216e475e69564192f2121daa5dd465835072718366b75b08b9272ff9cf08b`
-
 
 ### 0x13
+
+[pocorgtfo13.pdf](releases/pocorgtfo13.pdf) [`c881c675..69b0a3f5`](https://www.virustotal.com/gui/file/c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5/details) polyglot: PS, ZIP, PDF ([PDF-only](contents/issue13.pdf))
 
 1. Read me if you want to live! ([article](contents/articles/13-01.pdf), [in issue](contents/issue13.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo13#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Reverse Engineering Star Raiders ([article](contents/articles/13-02.pdf), [in issue](contents/issue13.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo13#page/n4/mode/1up)) by Lorenz Wiest
@@ -337,8 +338,6 @@ good neighbors secure their communications
 
 <img src=contents/issue13.png width=200px alt="PASTOR LAPHROAIG'S MERCY SHIP HOLDS STONES FROM THE IVORY TOWER, BUT ONLY AS BALLAST!"/> <img src=contents/issue13ps.png width=300px alt="PostScript polyglot"/> 
 
-[release](releases/pocorgtfo13.pdf): PS, ZIP, PDF `c881c67557af52864654791a2a494f329a2fa397236bf0e961508f0769b0a3f5`
-
 
 ## Volume III
 
@@ -346,6 +345,8 @@ good neighbors secure their communications
 
 
 ### 0x14
+
+[pocorgtfo14.pdf](releases/pocorgtfo14.pdf) [`5eaf00d..b126746c`](https://www.virustotal.com/gui/file/b9db617dcc146cc99f4379b3162a35818d884bf4032ab854b6ec00b5ec98138d/details) polyglot: iNES\*, ZIP, PDF\* -- MD5 \*[hashquines](https://github.com/corkami/collisions/tree/master/hashquines) + [collision](https://www.virustotal.com/gui/file/4238b3ce43a67c8b033f987345f60acd2113bea9619d8ded4f254112b78c65ce/details) ([PDF-only](contents/issue14.pdf))
 
 1. Let us share some water ([article](contents/articles/14-01.pdf), [in issue](contents/issue14.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo14#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Z-Ring Phreaking from a Gameboy ([article](contents/articles/14-02.pdf), [in issue](contents/issue14.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo14#page/n4/mode/1up)) by [Vicki Pfau](https://twitter.com/endrift)
@@ -361,12 +362,14 @@ good neighbors secure their communications
 1. This PDF is an NES ROM that prints its own MD5 hash! ([article](contents/articles/14-12.pdf), [in issue](contents/issue14.pdf#page=56), [archive.org](https://archive.org/stream/pocorgtfo14#page/n55/mode/1up)) by [Evan Sultanik](https://twitter.com/@ESultanik), [Evan Teran](https://twitter.com/@evan_teran)
 1. Tithe us your Alms of 0day! ([article](contents/articles/14-13.pdf), [in issue](contents/issue14.pdf#page=60), [archive.org](https://archive.org/stream/pocorgtfo14#page/n59/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue14.png width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER (480 collisions hashquine)"/> <img src=contents/issue14alt.png width=200px alt="alt cover (1 collision)"/> <img src=contents/issue14nes.png width=200px alt="NES polyglot (128 collisions hashquine)"/>
-
-[release](releases/pocorgtfo14.pdf): iNES\*, ZIP, PDF\* -- \*MD5 **hashquine** `5eaf00d25c14232555a51a50b126746c`
+[<img src=contents/issue14.png width=200px alt="PASTOR LAPHROAIG SCREAMS HIGH FIVE TO THE HEAVENS AS THE WHOLE WORLD GOES UNDER (480 collisions hashquine)"/>](https://www.virustotal.com/gui/file/b9db617dcc146cc99f4379b3162a35818d884bf4032ab854b6ec00b5ec98138d) 
+[<img src=contents/issue14alt.png width=200px alt="alt cover (1 collision)"/>](https://www.virustotal.com/gui/file/4238b3ce43a67c8b033f987345f60acd2113bea9619d8ded4f254112b78c65ce/details) 
+<img src=contents/issue14nes.png width=200px alt="NES polyglot (128 collisions hashquine)"/>
 
 
 ### 0x15
+
+[pocorgtfo15.pdf](releases/pocorgtfo15.pdf) [`c9b3f502..35815bf4`](https://www.virustotal.com/gui/file/c9b3f5026640efae12d75e62868931e2b2b5ad98a9b858408266ac5c35815bf4/details) polyglot: ILDA, ZIP, PDF ([PDF-only](contents/issue15.pdf))
 
 1. There's no excuse for not knowing. ([article](contents/articles/15-01.pdf), [in issue](contents/issue15.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo15#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Pier Solar and the Great Reverser ([article](contents/articles/15-02.pdf), [in issue](contents/issue15.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo15#page/n4/mode/1up)) by [Brandon L. Wilson](https://twitter.com/@brandonlwilson)
@@ -385,10 +388,10 @@ good neighbors secure their communications
 
 <img src=contents/issue15.jpg width=200px alt="I SLIPPED A LITTLE BUT LAPHROAIG WAS THERE WITH A HELPING HAND, A NIFTY IDEA, AND TWO LITERS OF COFFEE"/> <img src=contents/issue15ilda.jpg width=200px alt="ILDA polyglot"/> 
 
-[release](releases/pocorgtfo15.pdf): ILDA, ZIP, PDF `c9b3f5026640efae12d75e62868931e2b2b5ad98a9b858408266ac5c35815bf4`
-
 
 ### 0x16
+
+[pocorgtfo16.pdf](releases/pocorgtfo16.pdf) [`10f0cb97..151ed0a3`](https://www.virustotal.com/gui/file/10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3/details) polyglot: Bash (python, WebIDE), ZIP, PDF ([PDF-only](contents/issue16.pdf))
 
 1. Every Man His Own Cigar Lighter ([article](contents/articles/16-01.pdf), [in issue](contents/issue16.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo16#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Sapere aude! Or, do you have a moment to talk about Enlightenment? ([article](contents/articles/16-02.pdf), [in issue](contents/issue16.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo16#page/n4/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
@@ -406,10 +409,10 @@ good neighbors secure their communications
 
 <img src=contents/issue16.jpg width=200px alt="PASTOR LAPHROAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT"/> <img src=contents/issue16server.png width=200px alt="Bash+python+Kaitai payload"/> <img src=contents/issue16server2.png width=200px alt="splash screen"/> 
 
-[release](releases/pocorgtfo16.pdf): Bash (python, WebIDE), ZIP, PDF `10f0cb977f03824737a413079ded14b237b7ee155a5397e804586ab7151ed0a3`
-
 
 ### 0x17
+
+[pocorgtfo17.pdf](releases/pocorgtfo17.pdf) [`40b89855..99d59c97`](https://www.virustotal.com/gui/file/40b8985521e671b59c305d2f5512f31b95f1e8c59b9c05ad2ca6413a99d59c97/details) polyglot: Apollo Guidance Computer, ZIP, PDF ([PDF-only](contents/issue17.pdf))
 
 1. I thought I turned it on, but I didn't. ([article](contents/articles/17-01.pdf), [in issue](contents/issue17.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo17#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Constructing AES-CBC Shellcode ([article](contents/articles/17-02.pdf), [in issue](contents/issue17.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo17#page/n4/mode/1up)) by Albert Spruyt, [Niek Timmers](https://twitter.com/@tieknimmers)
@@ -424,10 +427,10 @@ good neighbors secure their communications
 
 <img src=contents/issue17.jpg width=200px alt="It's damned cold outside, so let's light ourselves a fire! warm ourselves with whiskey! and teach ourselves some tricks!"/> <img src=contents/issue17agc.png width=200px alt="AGC polyglot"/> 
 
-[release](releases/pocorgtfo17.pdf): Apollo Guidance Computer, ZIP, PDF `40b8985521e671b59c305d2f5512f31b95f1e8c59b9c05ad2ca6413a99d59c97`
-
 
 ### 0x18
+
+[pocorgtfo18.pdf](releases/pocorgtfo18.pdf) [`191b636f..aa2b7df5`](https://www.virustotal.com/gui/file/191b636f80d0c74164ec9d9b3544decdaa2b7df5/details) polyglot: HTML\* PDF\* ZIP -- \*[SHA-1 collision](https://www.virustotal.com/gui/file/f427637767d7aea764e0f2045ea4de86bbf5410a43535e70285add347047b283/details) ([PDF-only](contents/issue18.pdf))
 
 1. I thought I turned it on, but I didn't. ([article](contents/articles/18-01.pdf), [in issue](contents/issue18.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo18#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. An 8 Kilobyte Mode 7 Demo for the Apple II ([article](contents/articles/18-02.pdf), [in issue](contents/issue18.pdf#page=4), [archive.org](https://archive.org/stream/pocorgtfo18#page/n3/mode/1up)) by Vincent M. Weaver
@@ -441,14 +444,15 @@ good neighbors secure their communications
 1. Easy SHA-1 Colliding PDFs with PDFLaTeX. ([article](contents/articles/18-10.pdf), [in issue](contents/issue18.pdf#page=63), [archive.org](https://archive.org/stream/pocorgtfo18#page/n62/mode/1up)) by [Ange Albertini](https://twitter.com/@angealbertini)
 1. Bring out your dead! Bugs, that is. ([article](contents/articles/18-11.pdf), [in issue](contents/issue18.pdf#page=64), [archive.org](https://archive.org/stream/pocorgtfo18#page/n63/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue18.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"/> <img src=contents/issue18alt.png width=200px alt="SHA-1 collision cover"/>
-
-[release](releases/pocorgtfo18.pdf): HTML\* PDF\* ZIP -- \*SHA-1 **collision** `191b636f80d0c74164ec9d9b3544decdaa2b7df5`
+[<img src=contents/issue18.png width=200px alt="Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not"/>](https://www.virustotal.com/gui/file/191b636f80d0c74164ec9d9b3544decdaa2b7df5/details) [<img src=contents/issue18alt.png width=200px alt="SHA-1 collision cover"/>](https://www.virustotal.com/gui/file/f427637767d7aea764e0f2045ea4de86bbf5410a43535e70285add347047b283/details)
 
 
 ## next...?
 
+
 ### 0x19
+
+[pocorgtfo19.pdf](releases/pocorgtfo19.pdf) [`891b6c4e..85713464`](https://www.virustotal.com/gui/file/891b6c4e0cc8f88af2b8c2467c1558b806d2f21be4c7518e7833c27885713464/details) polyglot: HTML PDF\* ZIP -- \*MD5 pileup: [PE](https://www.virustotal.com/gui/file/0c5e147a27ce71d2e2eb1e5618a08aa0f67d2dc8e9a9f1ed119de3938318dfc6/details)/[PDF](https://www.virustotal.com/gui/file/891b6c4e0cc8f88af2b8c2467c1558b806d2f21be4c7518e7833c27885713464/details)/[PNG](https://www.virustotal.com/gui/file/76ecc052df4b264a3653822a902ef2db6c042807f12d498d8e7f4dd5ada1724f/details)/[MP4](https://www.virustotal.com/gui/file/a324d093f178e54cf6d159a9a005204761ffa7b0cb539e328a8371388167cc70/details) ([PDF-only](contents/issue19.pdf))
 
 1. Let’s start a band together! ([article](contents/articles/19-01.pdf), [in issue](contents/issue19.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo19#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Of Coal and Iron ([article](contents/articles/19-02.pdf), [in issue](contents/issue19.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo19#page/n4/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
@@ -464,12 +468,18 @@ good neighbors secure their communications
 1. Inside the Emulator of Windows Defender ([article](contents/articles/19-12.pdf), [in issue](contents/issue19.pdf#page=64), [archive.org](https://archive.org/stream/pocorgtfo19#page/n63/mode/1up)) by [Alexei Bulazel](https://twitter.com/0xalexei)
 1. What clever things have you learned lately? ([article](contents/articles/19-13.pdf), [in issue](contents/issue19.pdf#page=80), [archive.org](https://archive.org/stream/pocorgtfo19#page/n79/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 
-<img src=contents/issue19.png width=200px alt="This lonely old piano has a few more tunes! And so do you! And so do I!"/> <img src=contents/issue19png.png width=200px alt="PNG colliding image (a pileup diagram)"/> <img src=contents/issue19mp4.png width=200px alt="MP4 colliding video (a car collision)"/> <img src=contents/issue19pe.png width=200px alt="PE colliding executable (a PDF viewer)"/> <img src=contents/issue19html.png width=200px alt="HTML payload to switch prefixes"/>
+[<img src=contents/issue19.png width=200px alt="This lonely old piano has a few more tunes! And so do you! And so do I!"/>](https://www.virustotal.com/gui/file/891b6c4e0cc8f88af2b8c2467c1558b806d2f21be4c7518e7833c27885713464)
+[<img src=contents/issue19png.png width=200px alt="PNG colliding image (a pileup diagram)"/>](https://www.virustotal.com/gui/file/76ecc052df4b264a3653822a902ef2db6c042807f12d498d8e7f4dd5ada1724f)
+[<img src=contents/issue19mp4.png width=200px alt="MP4 colliding video (a car near-collision)"/>](https://www.virustotal.com/gui/file/a324d093f178e54cf6d159a9a005204761ffa7b0cb539e328a8371388167cc70)
+[<img src=contents/issue19pe.png width=200px alt="PE colliding executable (a PDF viewer)"/>](https://www.virustotal.com/gui/file/0c5e147a27ce71d2e2eb1e5618a08aa0f67d2dc8e9a9f1ed119de3938318dfc6)
+<img src=contents/issue19html.png width=200px alt="HTML payload to switch prefixes"/>
 
-[release](releases/pocorgtfo19.pdf): HTML PDF\* ZIP -- \*MD5 **pileup** (PE/PDF/PNG/MP4) `ac75bf434f3624612cc3b6ee1aa59218` [writeup](writeups/19/README.md)
+Behind the scenes [writeup](writeups/19/README.md)
 
 
 ### 0x20
+
+[pocorgtfo20.pdf](releases/pocorgtfo20.pdf) [`4aeb48b5..b2fcd25f`](https://www.virustotal.com/gui/file/4aeb48b545a6f0ba5d945c216412724dcea54b8c7d2e39049ef5797bb2fcd25f/details) polyglot: PDF, ZIP -- Signed ([PDF-only](contents/issue20.pdf))
 
 1. Let's start a band together! ([article](contents/articles/20-01.pdf), [in issue](contents/issue20.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo20#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. Let's Build a Geniza from the world's Flash Memory! ([article](contents/articles/20-02.pdf), [in issue](contents/issue20.pdf#page=5), [archive.org](https://archive.org/stream/pocorgtfo20#page/n4/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
@@ -500,10 +510,10 @@ Signature #1:
   - Certificate Validation: Certificate issuer isn't Trusted.
 ```
 
-[release](releases/pocorgtfo20.pdf): PDF, ZIP -- Signed `4aeb48b545a6f0ba5d945c216412724dcea54b8c7d2e39049ef5797bb2fcd25f`
-
 
 ### 0x21
+
+[pocorgtfo21.pdf](releases/pocorgtfo21.pdf) [`da91fb4a..e87684ae`](https://www.virustotal.com/gui/file/da91fb4aff2711e980289e6b13ce16c4e06c6ab23d2a9c2f4fbdb327e87684ae/details) polyglot: PCAPNG, PDF, ZIP -- ([PDF-only](contents/issue21.pdf))
 
 1. Don’t give up on your library card! ([article](contents/articles/21-01.pdf), [in issue](contents/issue21.pdf#page=3), [archive.org](https://archive.org/stream/pocorgtfo21#page/n2/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
 1. A Tale of Glavlit and Samizdat ([article](contents/articles/21-02.pdf), [in issue](contents/issue21.pdf#page=6), [archive.org](https://archive.org/stream/pocorgtfo21#page/n5/mode/1up)) by Rt. Revd. Pastor Manul Laphroaig
@@ -533,8 +543,6 @@ Signature #1:
 0000 Ether / IP / IP / IP / IP / IP / IP / IP / IP / IP / ... / 117.239.221.1 > 81.134.10.64 4 / Raw
 >>>
 ```
-
-[release](releases/pocorgtfo21.pdf): PCAPNG, PDF, ZIP -- `da91fb4aff2711e980289e6b13ce16c4e06c6ab23d2a9c2f4fbdb327e87684ae`
 
 
 # Extras
